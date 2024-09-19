@@ -1,0 +1,883 @@
+Municipio;NIL;Anno Ritiro;Descr Titolo Abilitativo;Numero Abitazioni;Numero Stanze;Numero Vani Accessori Interni;Numero Piani;Volume Totale V/p;Superficie Utile Abitabile;Superficie Accessori Esterni;Superficie Agricoltura;Superficie Attivita' Produttive;Superficie Commercio;Superficie Servizi;Specifica Altra Attivita';Descr_Titolare Titolo Costruire;Consumo Energetico;Rapporto Forma;Fotovoltaico;Solare Termico;Pompe Calore;Caldaia A Condensazione;Geotermico;Nessun Impianto Tra I Citati;PianoCasa
+7;;2012;DIA;23;75;83;10;11330;1880;1752;0;0;0;0;;Altro;20;0,48;SI;;SI;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+7;;2013;DIA;15;51;48;7;6920;1129;959;0;0;0;0;;Altro;40;0,49;;SI;SI;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+7;Bande Nere;2012;DIA;1;3;3;7;3511;65;1325;0;0;0;0;;Altro;93;0,27;;SI;;SI;;;
+7;;2011;DIA;4;4;8;3;2030;153;472;50;0;0;0;;Persona Fisica;66;0,81;;;;;;;
+7;;2013;DIA;5;19;17;3;3340;456;404;0;0;0;0;;Persona Fisica;11;0,57;SI;SI;SI;;;;
+7;;2013;DIA;9;26;36;4;1902;582;770;0;0;0;0;;Altro;32;0,59;SI;SI;;;;;
+7;Forze Armate;2011;DIA;44;74;90;6;11880;1847;2208;0;0;300;0;;Cooperativa Edilizia;;0;SI;;;;SI;;
+7;Forze Armate;2011;DIA;20;56;81;5;11625;1600;1297;0;0;0;0;;Cooperativa Edilizia;;0;;;;;SI;;
+7;Forze Armate;2011;DIA;26;88;48;6;8865;1429;2384;0;0;0;0;;Cooperativa Edilizia;;0;;;;;SI;;
+7;Forze Armate;2011;DIA;124;391;394;8;26975;8004;6533;0;0;418;858;;Persona Fisica;26;0,48;;;SI;;;;
+7;;2012;DIA;7;13;14;6;2616;362;436;0;0;0;0;;Altro;;0,66;;;;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+7;De Angeli - Monte Rosa;2012;DIA;10;35;31;6;2274;679;595;0;0;0;0;;Impresa;6;0,54;;;SI;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+7;De Angeli - Monte Rosa;2012;Permesso di Costruire;41;156;261;8;27411;4212;6488;0;0;0;0;;Altro;16;0,38;SI;;SI;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+7;De Angeli - Monte Rosa;2011;DIA;1;1;1;1;108;29;0;0;0;0;0;;Persona Fisica;;0;;;SI;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+7;De Angeli - Monte Rosa;2013;DIA;10;44;48;4;15755;1000;605;0;0;0;0;;Persona Fisica;25;0,45;;;SI;;SI;;
+7;Quarto Cagnino;2012;DIA;28;112;110;14;22364;2223;4526;0;0;0;0;UFFICI;Cooperativa Edilizia;28;0,56;SI;SI;SI;;;;
+7;Quarto Cagnino;2011;DIA;2;5;6;2;556;105;44;0;0;0;0;;Persona Fisica;82;0,94;;;;SI;;;
+7;Figino;2012;DIA;26;90;99;6;7047;2082;365;0;0;0;0;UFFICI/LABORATORI DIDATTICI;Altro;30;0,48;;;SI;;SI;;
+7;Figino;2012;DIA;23;83;72;6;12400;1756;668;0;0;401;0;;Altro;28;0,37;;;SI;;SI;;
+7;Figino;2012;DIA;33;123;89;15;16230;2270;960;0;0;155;0;;Altro;27;0,32;;;SI;;SI;;
+7;Figino;2012;DIA;15;51;46;4;6048;1172;614;0;0;0;0;;Altro;36;0,51;;;SI;;SI;;
+7;Figino;2012;DIA;14;40;35;4;6934;838;1340;0;0;0;0;;Cooperativa Edilizia;28;0,4;;;;;;;
+7;Figino;2012;DIA;18;41;43;4;5387;1177;384;0;0;0;0;;Altro;3;0,47;;;SI;;SI;;
+7;Figino;2012;DIA;24;66;76;3;8084;1543;879;0;0;0;0;;Altro;35;0,52;;;SI;;SI;;
+7;Figino;2012;DIA;25;72;85;6;11000;1621;1055;0;0;400;0;;Altro;23;0,35;;;SI;;SI;;
+7;Figino;2012;DIA;15;59;60;3;6041;1190;998;0;0;0;0;;Altro;29;0,57;;;SI;;SI;;
+7;Figino;2012;DIA;33;106;102;5;11638;2124;1842;0;0;0;0;Ecoclub;Altro;30;0,5;;;SI;;SI;;
+7;Figino;2012;DIA;15;49;43;5;6603;1177;772;0;0;0;0;;Altro;38;0,53;;;SI;;SI;;
+7;Figino;2012;DIA;12;39;33;3;3825;848;334;0;0;0;0;;Altro;36;0,52;;;SI;;SI;;
+7;Figino;2012;DIA;25;86;90;6;6051;1726;698;0;0;0;0;;Altro;29;0,45;;;SI;;SI;;
+7;Figino;2012;DIA;17;56;69;5;4419;1281;433;0;0;0;0;LAVANDERIA CONDOMINIALE;Altro;39;0,44;;;SI;;SI;;
+7;Figino;2012;DIA;3;13;12;2;1123;241;85;0;0;0;0;;Altro;53;0,75;;;SI;;SI;;
+7;Figino;2012;DIA;10;34;30;4;3298;696;233;0;0;0;0;;Altro;38;0,47;;;SI;;SI;;
+7;Figino;2012;DIA;10;10;28;3;5424;492;271;0;0;547;0;;Altro;41;0,63;;;SI;;SI;;
+7;Figino;2012;DIA;19;67;68;5;4809;1403;397;0;0;0;0;;Altro;31;0,5;;;SI;;SI;;
+8;Tre Torri;2012;DIA;97;504;638;27;107500;13626;25755;0;0;0;0;;Altro;28;0,39;SI;;SI;;;;
+8;Tre Torri;2012;DIA;62;293;449;12;50886;7358;6654;0;0;0;0;;Altro;27;0,33;SI;;SI;;;;
+8;Tre Torri;2012;DIA;34;158;239;7;31057;3936;3928;0;0;0;0;;Altro;28;0,4;SI;;SI;;;;
+8;Trenno;2013;DIA;35;105;79;8;14760;2711;2209;0;0;0;0;;Cooperativa Edilizia;27;0,47;;;SI;SI;;;
+8;Trenno;2012;DIA;11;26;37;5;6129;629;915;0;0;0;0;;Impresa;25;0,57;;;SI;;;;
+8;Trenno;2013;DIA;35;103;80;8;15430;2700;2444;0;0;0;0;;Cooperativa Edilizia;28;0,46;;;SI;SI;;;
+8;Trenno;2013;DIA;44;114;110;8;15000;2800;2200;0;0;0;0;;Cooperativa Edilizia;28;0,49;;;SI;SI;;;
+8;Trenno;2012;DIA;12;29;26;5;5591;635;1758;0;0;0;0;;Altro;22;0,61;SI;;SI;;;;
+8;Trenno;2012;DIA;11;26;37;5;6129;629;915;0;0;0;0;;Impresa;25;0,57;;;SI;;;;
+8;Portello;2012;DIA;29;112;139;6;22242;2574;3225;0;0;0;0;;Altro;28;0,42;SI;;SI;;;;
+8;Sarpi;2013;Permesso di Costruire;83;268;225;6;23528;5671;12447;0;0;1262;0;;Cooperativa Edilizia;21;0,36;SI;;SI;SI;SI;;
+8;Sarpi;2013;Permesso di Costruire;102;304;304;9;23800;5741;10432;0;0;0;0;;Altro;18;0,4;SI;SI;;SI;SI;;
+8;Sarpi;2011;DIA;22;67;62;6;12780;1166;2749;0;0;0;0;;Impresa;34;0,58;SI;SI;SI;;;;
+8;Sarpi;2013;DIA;22;53;40;5;11930;1232;1824;0;0;0;0;;Impresa;7;0,44;SI;;SI;;;;
+8;Sarpi;2012;Permesso di Costruire;12;17;32;4;1412;470;163;0;0;0;0;;Persona Fisica;30;0,69;;;;SI;;;
+8;Ghisolfa;2012;DIA;3;11;9;2;1491;295;277;0;0;0;0;;Impresa;107;0,76;;SI;;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+8;Ghisolfa;2013;DIA;7;20;16;6;4000;463;1161;0;0;0;0;;Impresa;33;0,52;;SI;SI;SI;;;
+8;Ghisolfa;2011;DIA;10;36;32;7;4870;498;1063;0;0;0;0;;Altro;13;0,4;;;;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+8;Ghisolfa;2011;DIA;8;32;44;8;3384;401;884;0;0;0;0;;Altro;13;0,4;;;;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+8;Ghisolfa;2012;DIA;10;37;37;7;5247;733;1016;0;0;0;0;;Altro;26;0,47;;SI;SI;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+8;Ghisolfa;2011;DIA;9;29;24;9;3568;582;551;0;0;0;0;;Altro;24;0,48;SI;;SI;;SI;;
+8;Ghisolfa;2012;DIA;9;37;55;9;3765;700;555;0;0;0;0;;Altro;26;0,47;;SI;SI;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+8;;2011;DIA;8;19;18;6;6600;348;506;0;0;0;0;;Impresa;56;0;;SI;;SI;;;
+8;;2011;DIA;16;32;41;6;7068;822;1796;0;0;0;0;;Persona Fisica;70;0,62;;SI;;;;;
+8;;2011;DIA;2;6;4;5;1387;97;340;0;0;0;0;;Altro;85;0,76;;SI;;;;;
+8;;2013;Permesso di Costruire;22;36;66;8;6534;945;2146;0;0;0;0;;Altro;31;0,78;;SI;;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+8;;2012;DIA;12;24;20;4;4865;598;932;0;0;0;0;;Impresa;61;0,56;SI;SI;;SI;;;
+8;;2011;DIA;24;66;64;7;9347;1387;2075;0;0;0;0;;Altro;;0;;;;;;;
+8;;2010;DIA;57;211;197;8;19410;3875;3889;0;0;0;0;;Altro;48;0,43;;SI;;SI;;;
+8;;2011;DIA;37;77;83;4;10489;1302;1575;0;0;96;0;;Impresa;;0,61;;;;;;;
+8;;2013;Permesso di Costruire;38;114;114;12;15283;2743;1804;0;0;0;0;;Impresa;24;0,42;SI;;;;;;
+8;;2013;Permesso di Costruire;71;215;255;18;29887;4788;4338;0;0;0;0;;Altro;28;0,34;SI;;;;;;
+8;;2013;Permesso di Costruire;122;412;415;24;49124;7939;7388;0;0;0;0;;Altro;24;0,31;SI;;;;;;
+8;;2013;Permesso di Costruire;56;168;168;16;22380;4199;2226;0;0;0;0;;Impresa;25;0,04;SI;;;;;;
+8;;2013;Permesso di Costruire;89;273;376;17;43466;6245;5350;0;0;0;0;;Altro;28;0,49;SI;;;;SI;;
+8;;2013;Permesso di Costruire;56;168;199;18;36359;3806;4978;0;0;0;0;;Impresa;25;0,38;SI;;;;;;
+8;;2013;Permesso di Costruire;62;176;193;14;35016;4055;4181;0;0;0;0;;Altro;26;0,38;SI;;;;;;
+8;;2013;Permesso di Costruire;69;254;190;15;15326;4514;4748;0;0;0;0;;Impresa;25;0,27;SI;;;;;;
+8;;2013;Permesso di Costruire;83;250;249;22;33882;6058;2576;0;0;0;0;;Impresa;28;0,38;SI;;;;;;
+8;;2013;Permesso di Costruire;85;280;287;10;18117;5367;5913;0;0;277;0;;Cooperativa Edilizia;;0;;;;;;;
+8;;2013;Permesso di Costruire;67;164;196;6;11865;3166;4841;0;0;0;0;;Cooperativa Edilizia;;0;;;;;;;
+8;;2013;Permesso di Costruire;38;114;104;11;22962;2558;3067;0;0;0;0;;Altro;26;0,45;;;;;;;
+8;;2011;DIA;68;223;244;4;27690;4697;7816;0;0;0;0;;Altro;20;0,53;;;;;SI;;
+8;;2011;DIA;68;241;227;4;26939;4695;8491;0;0;0;0;;Cooperativa Edilizia;22;0,5;;;;;;SI;
+8;;2011;DIA;9;31;27;5;1913;611;422;0;0;0;0;;Impresa;26;0,58;;;;SI;;;
+8;;2011;DIA;11;25;36;5;1697;538;539;0;0;0;0;;Impresa;26;0,58;;;;SI;;;
+9;;2013;Permesso di Costruire;16;34;44;6;4529;770;650;0;0;0;0;;Altro;;0;;;;;;;
+9;;2012;DIA;38;202;122;13;19968;3739;2276;0;0;0;0;;Altro;;0;;;;;SI;;
+9;;2012;DIA;25;75;55;10;13075;2320;1598;0;0;0;0;;Altro;;0;;;;;SI;;
+9;;2013;DIA;25;87;105;7;15000;2013;1600;0;0;364;0;;Altro;23;0,32;SI;;SI;;SI;;
+9;;2011;DIA;25;87;105;7;15000;2013;1600;0;0;390;0;;Altro;28;0,3;SI;SI;SI;;SI;;
+9;;2011;DIA;26;52;52;7;9120;964;2076;0;0;0;0;;Altro;30;0,55;;SI;;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+9;;2013;DIA;22;53;53;10;9272;1055;2035;0;0;0;0;;Impresa;34;0,53;SI;SI;SI;SI;;;
+9;Bicocca;2013;DIA;112;336;336;15;27000;6500;3710;0;0;0;0;;Altro;510;0,02;SI;;SI;SI;SI;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+9;Bicocca;2011;DIA;89;217;268;15;22356;4846;4620;0;0;0;0;;Cooperativa Edilizia;10;0,38;;;SI;SI;;;
+9;Bicocca;2013;DIA;12;28;30;5;4038;575;523;0;0;0;0;;Cooperativa Edilizia;58;0,06;;;;;;SI;
+9;Bicocca;2011;DIA;105;327;283;15;28670;6699;6454;0;0;0;0;;Cooperativa Edilizia;26;0,34;;;SI;SI;;;
+9;Bicocca;2011;DIA;118;349;330;15;33150;7434;7356;0;0;0;0;;Cooperativa Edilizia;26;0,35;;;SI;SI;;;
+9;Bicocca;2013;Permesso di Costruire;243;608;243;16;133104;16012;27802;0;0;554;0;;Impresa;49;0,35;SI;SI;SI;SI;;;
+9;Bovisa;2012;DIA;249;667;654;21;48145;12603;12834;0;0;138;0;;Cooperativa Edilizia;47;0,39;;SI;;SI;;;
+9;Bovisa;2012;DIA;133;321;308;15;23132;5732;6194;0;0;0;0;;Cooperativa Edilizia;46;0,38;;SI;;SI;;;
+9;Dergano;2013;DIA;33;68;76;6;18633;1430;2323;0;0;0;0;;Impresa;;0;;;;;;;
+9;Dergano;2012;DIA;18;42;44;4;4919;779;1043;0;0;0;0;;Altro;57;0,87;;SI;;SI;;;
+9;Dergano;2012;DIA;3;11;12;2;837;216;7;0;0;0;0;;Altro;94;0,99;;SI;;;;;
+9;Affori;2013;DIA;1;2;2;3;251;75;103;0;0;0;0;;Persona Fisica;172;0,71;SI;;SI;;;;
+9;Affori;2011;DIA;6;12;21;5;690;230;45;0;0;0;0;;Impresa;;0;;;;SI;;;
+9;Affori;2011;DIA;109;301;150;4;20579;4887;4067;0;1966;0;0;;Altro;26;0,59;;;SI;;;;
+9;Affori;2011;DIA;30;62;90;8;10464;1529;1646;0;0;0;0;;Altro;27;0,34;;;SI;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+9;Affori;2013;DIA;10;14;12;7;1800;452;490;0;0;0;0;;Impresa;42;0,57;;SI;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+9;Affori;2013;DIA;57;155;137;8;9056;2687;3211;0;0;0;0;;Altro;41;0,49;SI;;SI;;;;
+9;Comasina;2013;DIA;12;32;28;5;2151;659;1130;0;0;0;0;;Impresa;13;0,49;SI;;SI;;SI;;
+9;Comasina;2013;DIA;14;30;35;5;2151;659;1130;0;0;0;0;;Impresa;13;0,49;SI;;SI;;SI;;
+9;Bruzzano;2012;DIA;70;220;190;13;15210;4447;3801;0;0;0;0;;Cooperativa Edilizia;23;0,43;;SI;;SI;;;
+9;Bruzzano;2012;DIA;56;181;159;13;11679;3443;3280;0;0;0;0;;Cooperativa Edilizia;23;0,43;;SI;;SI;;;
+9;Bruzzano;2012;DIA;123;404;326;14;26613;7728;6652;0;0;158;0;;Cooperativa Edilizia;23;0,43;;SI;;SI;;;
+9;Bruzzano;2012;DIA;53;152;102;4;11750;3525;2380;0;0;0;0;;Altro;23;0,37;SI;;;SI;;;
+;;2012;DIA;207;509;489;21;36320;8843;9416;0;0;906;0;;Cooperativa Edilizia;47;0,35;;SI;;SI;;;
+;;2011;DIA;31;123;169;9;12057;3574;3323;0;0;0;0;;Impresa;;0;;;;;;;
+1;Duomo;2013;DIA;7;31;28;5;3660;1045;0;0;0;175;0;;Impresa;27;0,47;;;;;SI;;
+1;Duomo;2013;DIA;9;53;36;5;7100;1783;0;0;0;539;0;;Impresa;27;0,52;;;;;;;
+1;Duomo;2012;DIA;4;19;20;5;3948;461;231;0;0;104;0;;Altro;22;0,44;SI;;;;;;
+1;Duomo;2012;DIA;4;22;21;5;2460;499;196;0;0;98;0;;Altro;48;0,44;;SI;;;;;
+1;Brera;2012;DIA;26;63;57;6;13875;1840;2785;0;0;0;0;;Altro;;0;;;;;;;
+1;Brera;2013;DIA;28;92;145;6;8732;2586;2444;0;0;0;0;;Altro;18;0,43;;;SI;;;;
+1;Brera;2013;DIA;13;55;70;10;10137;1471;2080;0;0;0;0;;Altro;21;0,43;;;SI;;SI;;
+1;Brera;2013;DIA;28;94;142;6;9652;2653;2234;0;0;0;0;;Altro;18;0,43;;;SI;;;;
+1;Sarpi;2011;DIA;17;38;51;7;4393;1278;5115;0;0;0;0;;Impresa;17;0,59;;;SI;;;SI;
+1;Sarpi;2013;DIA;6;24;15;8;4702;525;746;0;0;0;0;;Impresa;25;0,52;SI;SI;;SI;;;
+2;;2012;DIA;32;102;123;6;19908;2530;4555;0;0;0;0;;Altro;26;0,36;;;;;;SI;
+2;;2011;DIA;52;179;170;4;38870;4034;4725;0;0;0;0;;Impresa;10;0,45;;;SI;;SI;;
+2;;2012;DIA;36;80;104;6;6487;2162;1107;0;0;0;0;;Altro;44;0,55;;SI;;SI;;;
+2;;2011;DIA;80;240;225;7;30083;4763;4620;0;0;0;0;;Impresa;28;0,4;;;;;SI;;
+2;;2013;DIA;18;40;66;6;5824;770;1198;0;0;0;0;;Impresa;37;0,51;;SI;SI;;;;
+2;;2013;DIA;1;5;4;3;760;121;61;0;0;0;0;;Impresa;20;0,66;SI;SI;;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+2;;2011;DIA;57;126;75;6;14163;2966;3368;0;0;0;0;;Impresa;33;0,33;;;SI;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+2;;2013;DIA;4;9;11;3;1049;350;259;0;0;0;0;;Altro;;0,62;SI;;SI;;SI;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+2;;2011;DIA;12;27;33;6;3710;706;755;0;0;0;0;;Persona Fisica;51;0,53;;;;;;;
+2;;2012;DIA;24;56;40;8;8359;1261;1835;0;0;0;0;;Impresa;26;0,56;;SI;;SI;;;
+2;;2013;DIA;14;30;30;8;8230;595;1626;0;0;30;0;;Altro;52;0,54;;SI;;SI;;;
+2;;2013;DIA;18;41;55;6;2784;842;1068;0;0;0;0;;Persona Fisica;28;0,54;SI;SI;SI;;;;
+2;;2013;DIA;4;8;8;5;1080;162;284;0;0;0;0;;Persona Fisica;;0;;;;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+2;;2012;DIA;33;44;66;5;9254;1174;3008;0;0;0;0;;Impresa;49;0,65;;SI;;SI;;;
+2;;2011;Permesso di Costruire;35;43;;5;4845;1448;167;0;0;0;0;;Impresa;;0;;;;;;;
+3;;2012;DIA;13;55;59;11;10206;1614;1787;0;0;0;0;;Altro;37;0,4;SI;;SI;;SI;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+3;;2012;Permesso di Costruire;66;255;347;10;48983;7902;4102;0;0;0;0;;Impresa;24;0,43;;;;;SI;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+3;;2012;DIA;17;60;68;4;5733;1911;500;0;0;0;0;;Impresa;;0;;;;;;;
+3;;2011;DIA;4;17;17;6;4070;397;665;0;0;0;0;;Impresa;27;0,54;;;;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+3;;2013;DIA;9;47;58;5;1950;588;206;0;0;0;0;;Impresa;28;0,62;;;SI;SI;;;
+3;;2011;DIA;13;39;37;8;2745;813;1807;0;0;0;0;;Impresa;12;0,55;;;SI;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+3;Citta' studi;2012;DIA;29;63;57;6;4370;1211;1737;0;0;0;0;;Altro;27;0,55;SI;;;;SI;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+3;Citta' studi;2011;Permesso di Costruire;12;53;50;8;18450;1024;1172;0;0;0;0;;Altro;27;0,47;;SI;;SI;;;
+3;;2012;Permesso di Costruire;104;387;300;11;42688;7389;7243;0;0;0;0;;Impresa;112;0,17;;;;;;SI;
+3;;2011;Permesso di Costruire;51;153;209;8;17080;2918;3141;0;0;0;0;;Impresa;;0;;;;;;;
+3;;2012;Permesso di Costruire;104;387;300;11;42688;7389;7243;0;0;0;0;;Impresa;112;0,17;;;;;;SI;
+4;Corsica;2013;DIA;6;18;18;2;1974;371;249;0;0;0;0;;Altro;57;0,69;SI;SI;;SI;;;
+4;XXII Marzo;2011;DIA;5;13;12;5;3540;355;172;0;0;0;0;;Altro;53;0,64;;SI;;SI;;;
+4;XXII Marzo;2012;Permesso di Costruire;1;8;9;2;704;199;35;0;0;0;0;;Persona Fisica;43;0,33;;;SI;;;;
+4;XXII Marzo;2012;Permesso di Costruire;106;364;402;11;54517;8870;8995;0;0;0;0;;Altro;20;0,38;SI;;SI;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+4;XXII Marzo;2013;DIA;6;25;27;5;13001;595;1070;0;0;0;0;;Altro;36;0,55;SI;;;;;;
+4;;2013;DIA;11;21;22;6;2280;436;426;0;0;0;0;;Altro;37;0,51;;;SI;SI;;;
+4;;2011;Permesso di Costruire;42;131;160;11;18720;3089;3038;0;0;0;0;;Impresa;20;0,49;;;SI;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+4;Triulzo Superiore;2012;DIA;22;48;60;6;8571;1029;1203;0;0;0;0;;Impresa;;0;;SI;;;;;
+4;Lodi - Corvetto;2011;DIA;105;288;222;9;40362;4336;5233;0;0;1414;0;;Impresa;25;0,29;;SI;SI;SI;SI;;
+5;;2011;DIA;24;78;69;3;6795;1663;154;0;0;0;0;;Cooperativa Edilizia;15;0,53;;SI;;;;;
+5;;2013;DIA;21;56;58;6;3897;1205;531;0;0;0;0;;Persona Fisica;;0;;;;;;;
+5;;2012;DIA;12;33;32;7;5376;697;955;0;0;0;0;;Persona Fisica;45;0,6;SI;SI;;SI;;;
+5;;2013;DIA;20;50;53;5;20250;1210;780;0;0;0;0;;Altro;17;0,56;SI;;SI;SI;;;
+5;;2013;Permesso di Costruire;8;20;19;6;2385;515;920;0;0;0;0;;Altro;24;0,05;;SI;;SI;;;
+5;;2012;DIA;25;49;59;5;4984;1156;690;0;0;0;0;;Impresa;;0;;;;;;;
+5;Scalo Romana;2013;Permesso di Costruire;10;22;52;4;4051;590;474;0;0;0;0;;Altro;;0;SI;SI;;;SI;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+5;Scalo Romana;2013;DIA;20;41;46;6;5571;876;1927;0;0;0;0;;Altro;42;0,46;SI;;SI;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+5;Scalo Romana;2012;DIA;49;104;122;5;12675;2795;1200;0;0;0;0;UFFICI;Cooperativa Edilizia;23;0,43;SI;;;;;;
+5;;2011;DIA;16;43;60;8;5324;940;1480;0;0;0;0;;Altro;166;0,54;;SI;;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+5;;2013;Permesso di Costruire;38;90;106;7;13824;1938;5178;0;0;0;0;;Impresa;15;0,4;SI;;SI;;SI;;
+5;;2012;Permesso di Costruire;22;76;64;3;9750;1660;2786;0;0;0;0;;Altro;;0,49;;SI;;;;;
+5;;2011;Permesso di Costruire;94;238;210;5;35600;4824;4531;0;0;0;0;;Altro;;0;;;;;SI;;
+5;;2013;Permesso di Costruire;50;179;169;5;31990;3441;6748;0;0;0;0;;Cooperativa Edilizia;24;0,45;;;SI;SI;;;
+5;;2011;Permesso di Costruire;78;210;186;6;29625;4107;3705;0;0;0;0;;Altro;;0;;;;;SI;;
+5;;2011;DIA;4;8;8;2;1155;238;0;0;0;0;0;;Altro;71;0,68;;SI;;;;;
+6;;2013;DIA;5;;;3;5300;747;2365;0;485;523;0;;Impresa;11;0,99;SI;;;;SI;;
+6;;2013;DIA;15;28;44;8;2541;807;192;0;0;0;0;;Impresa;27;0,59;SI;SI;;SI;;;
+6;;2013;DIA;22;65;43;4;6318;1974;1264;0;0;0;0;;Impresa;25;0,55;;;SI;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+6;Barona;2013;Permesso di Costruire;103;271;263;8;19191;5706;3203;0;0;0;0;;Impresa;39;0,5;;;;;;SI;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+6;Barona;2013;Permesso di Costruire;113;270;292;8;18000;5500;3481;0;0;0;340;;Impresa;39;0,05;;;;;;SI;
+6;;2013;DIA;13;40;48;5;6724;983;3218;0;0;0;0;;Altro;165;0,51;SI;;SI;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+6;;2011;DIA;11;41;60;6;10494;826;2672;0;0;0;0;;Altro;36;0,57;;SI;;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+6;;2011;DIA;21;88;60;6;19374;2104;4354;0;0;0;0;;Altro;32;0,44;;SI;;SI;;;
+6;Bande Nere;2011;DIA;108;436;108;13;50000;9969;8298;0;0;0;0;;Impresa;;0;;;;;;;
+6;Lorenteggio;2012;DIA;8;35;25;5;3513;631;1175;0;0;0;0;;Impresa;43;0,6;;;SI;;;;
+6;Lorenteggio;2011;DIA;24;89;111;9;12587;1765;2897;0;0;0;0;;Altro;6;0,46;;;SI;SI;;;
+6;Lorenteggio;2011;DIA;24;89;111;9;11807;1765;2611;0;0;0;0;;Altro;6;0,46;;;SI;;;;
+6;Lorenteggio;2011;DIA;24;89;111;9;11807;1765;2611;0;0;0;0;;Altro;6;0,46;;;SI;SI;;;
+6;Lorenteggio;2011;DIA;24;89;111;9;11807;1765;2611;0;0;0;0;;Altro;6;0,46;;;SI;SI;;;
+6;Lorenteggio;2011;DIA;24;89;111;9;11807;1765;2608;0;0;0;0;;Altro;6;0,46;;;SI;SI;;;
+6;Lorenteggio;2011;DIA;24;89;111;9;11807;1765;2608;0;0;0;0;;Altro;6;0,46;;;SI;SI;;;
+6;Lorenteggio;2011;DIA;24;89;111;9;12587;1765;2897;0;0;0;0;;Altro;6;0,46;;;SI;SI;;;
+6;Lorenteggio;2011;DIA;108;286;359;11;44998;6221;10445;0;0;0;0;;Altro;6;0,42;;;SI;SI;;;
+6;Lorenteggio;2011;DIA;93;234;319;11;37211;5090;8683;0;0;0;0;;Altro;6;0,41;;;SI;SI;;;
+6;Lorenteggio;2011;DIA;24;89;111;9;12587;1765;2897;0;0;0;0;;Altro;6;0,46;;;SI;SI;;;
+7;;2011;DIA;22;76;80;10;11330;1881;1741;0;0;0;0;;Altro;35;0,45;;SI;;SI;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+8;Villapizzone - Cagnola - Boldinasco;2014;SCIA Alternativa;22;62;72;5;7620;1167;1314;0;0;0;0;;Impresa / Societ\x85;10;56;si;;s\x8d;s\x8d;;;
+5;Pta Romana;2014;SCIA Alternativa;19;48;58;6;8573;1105;1998;;;;;;Altro;26;54;si;;s\x8d;s\x8d;;;
+8;Maggiore - Musocco - Certosa;2014;Permesso di costruire;139;451;370;10;45209;8772;7389;;;;;;Cooperativa edilizia;25;35;si;;;;;;
+7;Quinto Romano;2014;Permesso di costruire;5;5;10;2;1053;231;70;;;;;100connessa attiv.agricola;Impresa / Societ\x85;52;81;;;s\x8d;;s\x8d;;
+7;Quinto Romano;2014;Permesso di costruire;1;4;2;2;298;63;12;;;;;100connessa attiv.agricola;Impresa / Societ\x85;59;89;si;s\x8d;s\x8d;;s\x8d;;
+7;Quinto Romano;2014;Permesso di costruire;1;5;9;2;1266;143;137;;;;;100connessa attiv.agricola;Impresa / Societ\x85;49;66;si;s\x8d;s\x8d;;s\x8d;;
+2;Padova - Turro - Crescenzago;2014;Permesso di costruire;6;20;14;5;3255;387;584;0;0;0;0;;Persona fisica;33;57;si;s\x8d;;s\x8d;;;
+8;Sarpi;2014;Permesso di costruire;11;22;22;9;3425;468;1577;;;;;;Impresa / Societ\x85;17;23;si;s\x8d;s\x8d;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+9;Dergano;2014;SCIA Alternativa;7;11;9;4;1860;275;271;;;;;;Impresa / Societ\x85;72;66;;;;s\x8d;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+7;Quinto Romano;2014;Permesso di costruire;1;5;9;2;1266;143;137;;;;;100connessa attiv.agricola;Impresa / Societ\x85;49;66;si;s\x8d;s\x8d;;s\x8d;;
+4;Lodi - Corvetto;2014;Permesso di costruire;43;134;131;13;21160;2836;6643;;;;;;Impresa / Societ\x85;23;46;;s\x8d;;;;;
+4;Lodi - Corvetto;2014;Permesso di costruire;8;19;15;3;4700;396;2096;;;;;;Impresa / Societ\x85;29;66;;;;;;;
+2;Padova - Turro - Crescenzago;2017;SCIA Alternativa;8;20;19;3;2768;482;189;;;;;;Impresa / Societ\x85;58;58;si;;s\x8d;;s\x8d;;
+3;Cimiano - Rottole - Q.re Feltre;2017;SCIA Alternativa;137;354;370;10;66798;7138;9785;;;;;servizi locali urbani;Altro;71;31;si;s\x8d;s\x8d;;;;
+8;Ghisolfa;2017;Permesso di costruire;21;59;67;6;7228;1452;1162;0;0;0;0;;Altro;12;55;;;s\x8d;;;;
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;15;39;33;5;4538;823;937;;;;;;Altro;72;37;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+6;Porta Ticinese - Conchetta;2017;Permesso di costruire;85;317;242;5;58946;6353;7043;;;;;uffici;Altro;;46;;;;;;;
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;59;230;190;9;22780;4755;5956;;;;;;Altro;;40;si;;;;;;
+7;Figino;2017;SCIA;3;16;13;3;1988;344;255;;;;;;Persona fisica;79;61;si;;s\x8d;;;;
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;20;64;64;4;5532;1277;1401;;;;;;Altro;26;41;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;37;94;106;5;9148;2048;2458;;;;;;Altro;59;38;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;40;109;106;7;9954;2127;1098;;;;;;Altro;23;36;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+9;Niguarda - Ca? Granda - Prato Centenaro - Q.re Fulvio Testi;2017;SCIA Alternativa;11;38;42;4;4129;923;731;;;;;;Persona fisica;58;62;si;;s\x8d;s\x8d;;;
+8;Maggiore - Musocco - Certosa;2017;Permesso di costruire;60;177;156;10;21481;3667;3788;0;0;0;0;;Impresa / Societ\x85;94;48;si;;s\x8d;;s\x8d;;
+8;Maggiore - Musocco - Certosa;2017;Permesso di costruire;76;220;227;18;23687;4753;4476;0;0;0;0;;Impresa / Societ\x85;69;44;si;;s\x8d;;s\x8d;;
+8;Pagano;2017;SCIA;105;343;464;11;39423;7579;2400;;;314;;;Altro;12;38;si;;s\x8d;;s\x8d;;
+8;Maggiore - Musocco - Certosa;2017;SCIA;175;549;440;25;103115;11061;7529;;;205;;;Impresa / Societ\x85;133;39;si;;s\x8d;;;;
+9;Porta Garibaldi - Porta Nuova;2017;SCIA;49;164;216;11;43920;4746;5587;;;493;;;Altro;145;;si;;s\x8d;;s\x8d;;
+9;Affori;2017;SCIA;59;174;181;14;12821;3807;3149;;;;;;Altro;107;45;si;;s\x8d;;s\x8d;;
+9;Affori;2017;SCIA;32;94;99;6;6381;1871;1707;;;;;;Altro;105;47;si;;s\x8d;;s\x8d;;
+9;Affori;2017;SCIA;58;174;191;14;13892;4158;3095;;;;;;Altro;116;47;si;;s\x8d;;s\x8d;;
+9;Affori;2017;SCIA;66;170;164;14;12859;3779;3522;;;;;;Altro;110;45;si;;s\x8d;;s\x8d;;
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;23;45;52;5;5696;1053;990;;;;;;Altro;73;43;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+9;Affori;2017;SCIA;64;163;151;14;11970;3572;3415;;;;;;Altro;118;47;si;;s\x8d;;s\x8d;;
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;29;69;63;5;7110;1469;1430;;;;;;Altro;38;57;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;20;57;56;4;5688;1169;759;;;;;;Altro;28;44;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;29;78;78;5;7110;1587;981;;;;;;Altro;26;36;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;24;73;58;7;7516;1352;1494;;;;;;Altro;68;39;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+2;Greco - Segnano;2017;Permesso di costruire;19;65;64;8;10443;1227;1666;;;;;;Impresa / Societ\x85;86;58;si;;s\x8d;s\x8d;;;
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;49;137;120;12;14024;2591;1735;;;;;;Altro;60;29;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+3;Lambrate - Ortica;2017;SCIA Alternativa;77;271;256;9;34680;5082;5800;;;303;;;Cooperativa edilizia;37;39;si;;s\x8d;;s\x8d;;
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;30;80;80;6;8532;1668;1602;;;;;;Altro;27;35;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;51;127;125;11;14070;3039;2347;;;;;;Altro;21;34;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;22;58;58;4;5532;1165;1645;;;;;;Altro;27;39;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;35;83;80;6;8532;1699;1864;;;;;;Altro;29;40;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+9;Affori;2017;SCIA;30;80;60;6;5177;1518;1601;;;;;;Altro;116;51;si;;s\x8d;;s\x8d;;
+9;Porta Garibaldi - Porta Nuova;2017;Permesso di costruire;8;25;24;8;2900;565;699;;;202;;;Altro;32;5;;;s\x8d;s\x8d;;;
+7;Bande Nere;2017;SCIA;11;24;29;7;1830;595;1275;0;0;0;0;;Impresa / Societ\x85;24;62;si;s\x8d;s\x8d;;;;
+7;San Siro;2017;Permesso di costruire;32;92;95;9;7391;2215;3400;;;;;;Altro;;;si;;;;s\x8d;;
+8;De Angeli - Monte Rosa;2017;Permesso di costruire;14;63;45;5;4154;1290;500;;;;;;Persona fisica;;51;;;;;s\x8d;;
+7;Porta Magenta;2017;Permesso di costruire;7;21;17;8;3985;456;593;;;;;;Impresa / Societ\x85;94;67;si;;s\x8d;;;;
+9;Bovisa;2017;Permesso di costruire;10;34;12;4;2331;740;564;;;;;;Altro;68;66;si;;s\x8d;;;;
+9;Bovisa;2017;Permesso di costruire;3;9;6;3;855;247;332;;;;;;Altro;70;69;si;;s\x8d;;;;
+8;Villapizzone - Cagnola - Boldinasco;2017;Permesso di costruire;14;52;66;7;8742;1086;1129;;;;;;Altro;7;48;si;;s\x8d;;;;
+8;Sarpi;2017;Permesso di costruire;4;10;23;3;1831;461;149;;;;;;Altro;;;;;s\x8d;;;;
+2;Greco - Segnano;2017;Permesso di costruire;90;154;180;9;14759;3401;3387;;;;;terziario;Altro;26;59;si;;s\x8d;;s\x8d;;
+5;Porta Ticinese - Conca del Naviglio;2017;Permesso di costruire;11;28;29;4;2835;811;1264;0;0;0;0;;Altro;91;53;si;;s\x8d;;s\x8d;;
+1;Magenta - S.Vittore;2017;Permesso di costruire;34;90;117;8;10919;2870;1387;;;;;uffici;Altro;87;36;si;;s\x8d;s\x8d;s\x8d;;
+8;De Angeli - Monte Rosa;2017;Permesso di costruire;16;66;59;5;7188;1485;1805;;;;;;Impresa / Societ\x85;21;54;si;s\x8d;s\x8d;s\x8d;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+3;Lambrate - Ortica;2017;Permesso di costruire;21;51;48;6;8045;1021;829;;;;;;Impresa / Societ\x85;19;55;si;;s\x8d;;;;
+3;Citta' studi;2017;Permesso di costruire;99;355;407;6;26956;7992;3317;;;;;;Impresa / Societ\x85;11;43;si;;;;s\x8d;;
+6;Bande Nere;2017;Permesso di costruire;27;107;75;7;13585;2118;2724;;;;;;Impresa / Societ\x85;24;54;si;;s\x8d;;;;
+3;Lambrate - Ortica;2017;Permesso di costruire;10;37;35;7;13418;827;1322;;;;;;Cooperativa edilizia;14;41;si;;s\x8d;;;;
+1;Brera;2017;Permesso di costruire;2;5;8;1;534;148;35;0;0;0;0;;Persona fisica;30;68;;;s\x8d;;;;
+7;De Angeli - Monte Rosa;2017;Permesso di costruire;12;56;40;8;7779;1327;1412;;;;;;Altro;17;4;si;s\x8d;;;;;
+5;Morivione;2017;Permesso di costruire;25;55;50;07;6173;1022;1110;;;;;;Altro;;57;si;s\x8d;;s\x8d;;;
+5;Porta Vigentina - Porta Lodovica;2017;Permesso di costruire;49;119;156;4;10413;3200;800;0;0;0;0;;Altro;4;37;si;;s\x8d;s\x8d;;;
+7;Stadio - Ippodromi;2017;Permesso di costruire;0;0;0;1;75;0;25;;;;;;Altro;;;;;;;;;
+1;Duomo;2017;Permesso di costruire;1;5;5;;441;147;;;;;;;Persona fisica;56;71;;;s\x8d;;;;
+8;Pagano;2017;Permesso di costruire;102;336;476;11;39423;7320;5707;;;310;;;Altro;15;39;si;;s\x8d;;s\x8d;;
+2;Padova - Turro - Crescenzago;2017;SCIA;29;71;62;7;5487;1305;1915;0;0;0;0;;Altro;;;si;;s\x8d;;s\x8d;;
+1;Duomo;2017;Permesso di costruire;3;15;19;9;8384;512;1018;;;;;uffici;Altro;86;43;;;s\x8d;s\x8d;;;
+5;Chiaravalle;2017;SCIA Alternativa;24;30;49;5;3697;1102;531;;;;;;Altro;74;48;;;s\x8d;;;;
+5;Morivione;2017;Permesso di costruire;41;106;129;5;17232;2374;367;;;;;;Altro;;5;;s\x8d;s\x8d;s\x8d;;;
+2;Adriano;2017;SCIA Alternativa;128;402;280;11;42242;7907;5498;;;;;;Impresa / Societ\x85;341;42;;;;;;s\x8d;
+6;Ronchetto sul Naviglio - Q.re Lodovico il Moro;2017;Permesso di costruire;10;50;1;5;11292;3764;0;0;0;0;0;;Impresa / Societ\x85;;41;;;;;;;
+6;Giambellino;2017;Permesso di costruire;24;60;60;8;59505;1478;1847;;;1672;;;Altro;98;05;si;;s\x8d;s\x8d;;;
+3;Cimiano - Rottole - Q.re Feltre;2017;Permesso di costruire;12;35;40;3;3564;1083;1304;0;0;0;0;;Altro;;60;si;s\x8d;;;;;
+1;Magenta - S.Vittore;2017;Permesso di costruire;37;114;50;5;13750;4566;;;;;;;Persona fisica;;;;;;;;;
+9;Porta Garibaldi - Porta Nuova;2017;Permesso di costruire;6;23;16;6;2558;486;551;;;195;;vani accessori commerciale;Altro;;;;;;;;;
+6;Moncucco - San Cristoforo;2017;Permesso di costruire;44;;;6;12795;3361;2240;0;0;475;0;;Altro;4;49;;;s\x8d;;;;
+9;Dergano;2017;Permesso di costruire;46;189;134;8;24762;3332;2337;0;0;0;0;;Altro;28;5;si;s\x8d;s\x8d;s\x8d;;;
+2;Stazione Centrale - Ponte Seveso;2017;Permesso di costruire;96;352;346;16;48631;8297;7191;;;186;;;Altro;9;36;si;s\x8d;s\x8d;;;;
+7;Quarto Cagnino;2017;SCIA Alternativa;31;92;123;11;15297;2300;1723;;;;;Ufficio;Altro;54;45;si;s\x8d;s\x8d;;;;
+8;Maggiore - Musocco - Certosa;2018;Permesso di costruire;43;163;155;13;17347;3233;3199;;;;;;Impresa / Societ\x85;68;43;si;;s\x8d;;;;
+8;Maggiore - Musocco - Certosa;2018;Permesso di costruire;43;163;155;13;17832;3233;3064;;;;;;Impresa / Societ\x85;62;42;si;;s\x8d;;;;
+3;Lambrate - Ortica;2018;SCIA;2;4;13;2;1925;266;86;0;0;0;0;;Impresa / Societ\x85;95;72;si;;s\x8d;;;;
+2;Padova - Turro - Crescenzago;2018;Permesso di costruire;30;111;94;7;11584;1936;3428;;;;;;Cooperativa edilizia;56;51;si;;s\x8d;s\x8d;;;
+9;Dergano;2018;SCIA;1;3;2;1;194;64;25;;;;;;Persona fisica;;;si;;;;s\x8d;;
+6;Porta Ticinese - Conchetta;2018;Permesso di costruire;30;106;78;7;13044;2154;2021;;;;;;Cooperativa edilizia;19;39;si;;;;s\x8d;;
+9;Dergano;2018;Permesso di costruire;44;114;107;14;8097;2350;2727;0;0;0;0;ufficio privato;Altro;26;5;si;s\x8d;;s\x8d;;;
+1;Porta Vigentina - Porta Lodovica;2018;Permesso di costruire;42;150;140;8;28327;3476;4800;;;284;;;Altro;103;4;si;;s\x8d;;;;
+6;Porta Ticinese - Conchetta;2018;Permesso di costruire;9;30;24;5;4885;591;1550;;;;;;Cooperativa edilizia;20;46;si;;;;s\x8d;;
+6;Porta Ticinese - Conchetta;2018;Permesso di costruire;17;57;41;5;10119;1162;1561;;;;;;Cooperativa edilizia;22;45;si;;;;s\x8d;;
+5;Pta Romana;2018;Permesso di costruire;14;25;30;5;2283;597;789;0;0;0;0;;Altro;88;54;si;;s\x8d;;;;
+9;Greco - Segnano;2018;Permesso di costruire;7;16;27;6;1157;366;1039;;;;;;Impresa / Societ\x85;32;67;si;;s\x8d;;;;
+5;Vigentino - Q.re Fatima;2018;Permesso di costruire;117;276;299;5;44694;6649;3399;;;;;;Persona fisica;90;77;si;;s\x8d;;s\x8d;;
+5;Vigentino - Q.re Fatima;2018;Permesso di costruire;36;138;132;9;20661;2737;4369;0;0;0;0;;Cooperativa edilizia;22;43;si;;s\x8d;s\x8d;;;
+2;Maciachini - Maggiolina;2018;SCIA;102;289;315;23;37917;7023;5616;;;;;;Altro;63;40;si;;s\x8d;;;;
+8;Sarpi;2018;SCIA;17;53;59;10;6358;1158;670;0;0;0;0;;Impresa / Societ\x85;13;43;si;s\x8d;s\x8d;;;;
+4;Umbria - Molise - Calvairate;2018;SCIA;94;344;331;16;41060;6506;8603;;;;;;Impresa / Societ\x85;53;55;si;s\x8d;s\x8d;;s\x8d;;
+4;Umbria - Molise - Calvairate;2018;SCIA;78;308;291;16;36448;5635;7451;;;;;;Impresa / Societ\x85;53;55;si;s\x8d;s\x8d;;s\x8d;;
+2;Adriano;2018;SCIA;6;12;20;4;3326;448;451;0;0;0;0;;Impresa / Societ\x85;31;85;si;s\x8d;s\x8d;;;;
+9;Bicocca;2018;SCIA;112;280;280;15;32880;6219;3700;;;;;;Altro;46;41;si;;s\x8d;;;;
+3;Lambrate - Ortica;2018;SCIA;42;157;118;9;15984;3311;5327;;;56;;;Cooperativa edilizia;58;;si;;s\x8d;s\x8d;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2018;SCIA;46;160;234;7;16436;4050;1079;;;;;;Impresa / Societ\x85;106;39;si;;s\x8d;;s\x8d;;
+7;Porta Magenta;2018;SCIA;8;34;38;9;2800;856;562;;;;;;Altro;35;63;si;;s\x8d;;s\x8d;;
+9;Comasina;2018;SCIA;2;10;12;2;869;205;29;;;;;;Persona fisica;43;69;si;;s\x8d;s\x8d;;;
+7;Quarto Cagnino;2018;SCIA;58;142;142;6;24213;2983;3510;;;;;;Altro;91;47;si;;s\x8d;;;;
+4;Rogoredo - Santa Giulia;2018;SCIA;72;274;239;9;24975;5717;6278;;;;;;Altro;57;41;si;;;;;;
+7;Porta Magenta;2018;SCIA;94;;;11;29055;9685;;;;;;;Persona fisica;;;si;;;;;;
+8;Maggiore - Musocco - Certosa;2018;Permesso di costruire;55;176;178;10;19953;3542;3691;;;88;;;Impresa / Societ\x85;75;46;si;;;;;;
+6;Moncucco - San Cristoforo;2018;SCIA;28;62;74;6;13790;1405;1636;;;;;;Altro;35;28;si;s\x8d;s\x8d;;;;
+2;Adriano;2018;Permesso di costruire;3;9;6;3;630;210;;;;;;;Persona fisica;52;53;si;;s\x8d;;;;
+6;Ronchetto sul Naviglio - Q.re Lodovico il Moro;2018;SCIA;0;0;1;1;0;0;32;0;0;0;0;;Persona fisica;0;61;;;;;;s\x8d;
+6;Porta Ticinese - Conchetta;2018;SCIA;14;47;42;7;8580;976;982;;;106;;;Persona fisica;29;55;;;s\x8d;;;;
+3;Lambrate - Ortica;2018;SCIA;61;181;154;9;21033;4550;6644;;;72;;;Cooperativa edilizia;68;43;si;;s\x8d;s\x8d;;;
+8;Trenno;2018;SCIA;15;43;54;4;3806;1114;140;;;;;;Impresa / Societ\x85;57;50;si;s\x8d;s\x8d;s\x8d;;;
+8;Trenno;2018;SCIA;3;9;13;2;670;191;1030;;;;;;Impresa / Societ\x85;57;50;si;s\x8d;s\x8d;s\x8d;;;
+8;Trenno;2018;SCIA;4;20;18;3;1341;391;11;;;;;;Impresa / Societ\x85;57;50;si;s\x8d;s\x8d;s\x8d;;;
+1;Sarpi;2018;SCIA;11;35;30;6;2680;815;1850;;;;;;Altro;142;47;si;s\x8d;s\x8d;;;;
+8;Trenno;2018;SCIA;11;29;37;6;6129;629;1286;;;;;;Altro;26;57;si;;s\x8d;;;;
+9;Dergano;2018;Permesso di costruire;19;45;46;8;5747;842;763;0;0;0;0;;Impresa / Societ\x85;41;51;si;;s\x8d;s\x8d;;;
+9;Bovisasca;2018;SCIA Alternativa;25;63;58;8;10416;1305;1850;0;0;0;0;;Impresa / Societ\x85;28;56;si;;s\x8d;;s\x8d;;
+6;Barona;2018;Permesso di costruire;30;100;84;6;6840;1931;1156;;;101;;;Persona fisica;25;45;si;;;;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2018;Permesso di costruire;9;21;20;7;1823;568;672;;118;30;;;Altro;51;47;si;;s\x8d;;s\x8d;;
+2;Padova - Turro - Crescenzago;2018;Permesso di costruire;56;157;174;10;24452;3572;2976;;;297;;;Impresa / Societ\x85;9;49;si;;s\x8d;;;;
+6;Bande Nere;2018;Permesso di costruire;25;53;56;8;4018;1205;622;;;;;;Impresa / Societ\x85;11;74;si;;s\x8d;;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2018;Permesso di costruire;2;3;4;1;318;90;;;;;;;Persona fisica;;28;;;;;;s\x8d;
+1;Magenta - S.Vittore;2018;Permesso di costruire;39;114;84;7;8982;2363;3824;;;;;;Impresa / Societ\x85;13;04;si;;s\x8d;;;;
+7;Bande Nere;2018;Permesso di costruire;6;16;19;5;1283;381;473;;;;;;Impresa / Societ\x85;27;55;si;s\x8d;s\x8d;;;;
+7;Bande Nere;2018;Permesso di costruire;6;20;21;8;1370;405;505;;;;;;Impresa / Societ\x85;27;55;si;s\x8d;s\x8d;;;;
+8;Ghisolfa;2018;Permesso di costruire;4;4;5;4;1221;366;441;0;0;0;0;;Persona fisica;130;61;si;;s\x8d;;;;
+8;Ghisolfa;2018;Permesso di costruire;29;116;87;9;7539;2241;1492;0;0;0;0;;Persona fisica;107;4;si;;s\x8d;;;;
+2;Greco - Segnano;2018;Permesso di costruire;31;76;75;6;6321;2107;2850;0;0;0;0;;Impresa / Societ\x85;94;79;si;s\x8d;;s\x8d;;;
+2;Greco - Segnano;2018;Permesso di costruire;142;448;420;16;28932;8594;12515;;;;;;Impresa / Societ\x85;51;36;si;;s\x8d;;s\x8d;;
+8;De Angeli - Monte Rosa;2018;Permesso di costruire;140;489;454;20;35364;10455;6500;0;;;;;Altro;;45;si;;;;s\x8d;;
+6;Bande Nere;2018;Permesso di costruire;10;40;30;7;6252;718;1297;0;0;0;0;;Altro;17;58;si;;s\x8d;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+8;Sarpi;2018;Permesso di costruire;10;18;31;5;1056;337;165;;;;;;Altro;;;si;s\x8d;s\x8d;;;;
+3;Citta' studi;2018;Permesso di costruire;17;44;47;9;3212;1033;542;;;;;;Altro;15;45;si;;;;;;
+1;Porta Vigentina - Porta Lodovica;2018;SCIA;35;110;154;11;12444;3350;407;;;;;UFFICI;Altro;21;29;;s\x8d;s\x8d;;;;
+5;Stadera - Chiesa Rossa - Q.re Torretta - Conca Fallata;2018;SCIA;20;56;65;7;7362;1178;1340;;;;;;Impresa / Societ\x85;76;57;si;;s\x8d;;;;
+9;Niguarda - Ca? Granda - Prato Centenaro - Q.re Fulvio Testi;2018;Permesso di costruire;106;292;292;16;25515;7148;4256;;;259;;;Altro;15;52;si;s\x8d;;;s\x8d;;
+1;Brera;2018;Permesso di costruire;10;39;60;8;6438;897;889;;;43;;;Altro;21;34;;s\x8d;;;s\x8d;;
+9;Bovisasca;2018;Permesso di costruire;4;10;10;3;1076;262;119;;;;;;Impresa / Societ\x85;39;62;;s\x8d;;s\x8d;;;
+8;Quarto Oggiaro - Vialba - Musocco;2018;Permesso di costruire;49;163;159;7;32714;3236;2502;;;391;;;Altro;32;42;si;;s\x8d;s\x8d;;;
+1;Brera;2018;Permesso di costruire;1;9;6;1;463;170;11;0;0;0;0;;Persona fisica;72;66;si;;s\x8d;s\x8d;;;
+1;Porta Vigentina - Porta Lodovica;2018;Permesso di costruire;4;13;7;3;1380;301;158;;;;;;Impresa / Societ\x85;67;54;si;;s\x8d;;;;
+5;Vigentino - Q.re Fatima;2018;Permesso di costruire;97;232;251;5;44473;5532;4461;;;;1676;;Persona fisica;106;76;si;;s\x8d;;s\x8d;;
+5;Vigentino - Q.re Fatima;2018;Permesso di costruire;36;134;136;10;26411;2727;4324;;;;;;Cooperativa edilizia;;;;;;;;;
+1;Sarpi;2018;Permesso di costruire;58;184;213;8;29767;5334;3237;;;119;;;Impresa / Societ\x85;58;42;si;;s\x8d;;;;
+5;Vigentino - Q.re Fatima;2018;Permesso di costruire;90;240;242;5;39515;5575;3383;;;335;;;Persona fisica;105;76;si;;s\x8d;;s\x8d;;
+5;Scalo Romana;2018;Permesso di costruire;18;35;38;7;5521;691;425;;377;;;;Altro;38;54;si;;s\x8d;;;;
+5;Vigentino - Q.re Fatima;2018;Permesso di costruire;97;232;251;5;45203;5532;4644;;;1665;;;Persona fisica;105;76;si;;s\x8d;;s\x8d;;
+6;Giambellino;2018;Permesso di costruire;32;111;104;9;9425;2532;2547;0;0;0;0;;Altro;8;40;si;;s\x8d;;;;
+9;Bruzzano;2018;SCIA;18;62;80;6;5050;1499;1267;;;;;;Altro;;;;;;;;s\x8d;
+7;Porta Magenta;2018;Permesso di costruire;58;158;208;8;11706;3374;2370;;;;;;Altro;99;46;si;;;;s\x8d;;
+9;Bovisa;2018;Permesso di costruire;58;179;137;8;125000;2600;3600;;;;;;Altro;26;54;;;;;s\x8d;;
+2;Loreto - Casoretto - NoLo;2018;Permesso di costruire;54;63;108;6;19513;2490;1664;;;;;;Altro;19;45;si;s\x8d;s\x8d;;;;
+5;Vigentino - Q.re Fatima;2018;Permesso di costruire;101;276;258;5;39453;6229;2711;;;;;;Persona fisica;89;7;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;25;70;40;10;12000;1688;719;0;0;76;0;;Altro;23;47;si;;s\x8d;;s\x8d;;
+3;Lambrate - Ortica;2019;SCIA;128;;;12;36000;11000;1115;;;;;;Impresa / Societ\x85;27;35;;;;;s\x8d;;
+4;Lodi - Corvetto;2019;Permesso di costruire;70;210;230;19;15780;5247;;;;;;;Impresa / Societ\x85;;;si;s\x8d;s\x8d;s\x8d;;;
+1;Brera;2019;Permesso di costruire;34;141;165;7;10725;3213;7454;;;;;;Altro;96;49;si;;;s\x8d;s\x8d;;
+8;Villapizzone - Cagnola - Boldinasco;2019;SCIA;24;85;68;8;7500;1736;229;;;;;;Impresa / Societ\x85;38;39;si;;s\x8d;s\x8d;;;
+9;Bovisa;2019;SCIA;99;193;0;6;36612;7995;12618;;;1919;;;Persona fisica;;44;si;;s\x8d;;;;
+6;Lorenteggio;2019;Permesso di costruire;19;74;38;10;12000;1933;713;0;0;0;0;;Altro;23;47;si;;s\x8d;;s\x8d;;
+2;Adriano;2019;SCIA;8;37;30;7;5528;731;1116;;;;;;Cooperativa edilizia;8,9;50;si;;s\x8d;;;;
+9;Isola;2019;SCIA;13;37;34;5;6772;773;668;0;0;0;0;;Impresa / Societ\x85;62;72;si;;s\x8d;;;;
+6;Lorenteggio;2019;Permesso di costruire;28;80;46;10;12000;2048;625;0;0;335;0;;Altro;23;46;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;22;67;36;9;10600;1685;645;0;0;0;0;;Altro;20;47;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;26;71;43;10;12000;1792;625;0;0;119;0;;Altro;22;46;si;;s\x8d;;s\x8d;;
+9;Maciachini - Maggiolina;2019;SCIA;12;39;34;8;5209;782;1396;;;;;;Altro;107;59;si;;s\x8d;;;;
+2;Gorla - Precotto;2019;SCIA;7;28;21;4;3152;746;611;;;;;;Impresa / Societ\x85;39;34;si;;s\x8d;s\x8d;;;
+3;Lambrate - Ortica;2019;SCIA;33;111;95;6;9875;2264;3350;;;;;;Cooperativa edilizia;69;46;si;;s\x8d;s\x8d;;;
+2;Adriano;2019;SCIA;14;54;44;9;6640;920;1238;;;;;;Cooperativa edilizia;10;45;si;;s\x8d;;;;
+5;Tibaldi;2019;SCIA;10;33;36;3;2560;501;155;;;;;;Impresa / Societ\x85;59;83;si;;s\x8d;;;;
+7;Quarto Cagnino;2019;SCIA;24;104;96;10;10495;1668;1142;;;;;;Altro;75;47;si;;s\x8d;;;;
+6;Lorenteggio;2019;Permesso di costruire;19;74;36;10;12000;2045;622;0;0;0;0;;Altro;23;43;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;26;;;10;12000;1795;628;0;0;428;0;;Altro;23;46;si;;s\x8d;;s\x8d;;
+6;Giambellino;2019;SCIA;31;113;88;8;20882;2378;2757;;;;;;Altro;64;47;si;s\x8d;s\x8d;;;;
+2;Adriano;2019;SCIA;12;55;48;10;7698;965;1865;;;;;;Cooperativa edilizia;14;44;si;;s\x8d;;;;
+8;Ghisolfa;2019;SCIA;62;180;248;10;16194;4820;4205;;;;;terziario;Impresa / Societ\x85;75;41;si;;s\x8d;;;;
+8;Tre Torri;2019;SCIA;48;;;10;20160;5928;5968;;;;;;Altro;;;si;;s\x8d;;s\x8d;;
+8;Maggiore - Musocco - Certosa;2019;SCIA;170;445;623;11;36750;11082;12891;;;;;;Impresa / Societ\x85;60;40;si;;s\x8d;;;;
+8;Quarto Oggiaro - Vialba - Musocco;2019;Permesso di costruire;8;27;24;3;2730;250;742;;;;;;Altro;30;54;si;s\x8d;;s\x8d;;;
+6;Barona;2019;Permesso di costruire;104;340;319;9;42082;7528;6092;;;;;;Altro;38;45;si;;;;;;
+8;Ghisolfa;2019;SCIA;58;193;579;10;16197;4838;4226;0;0;0;0;;Persona fisica;73;41;si;;s\x8d;;;;
+9;Isola;2019;SCIA;26;91;104;9;9206;1707;1781;0;0;0;0;;Altro;104;38;si;;;;s\x8d;;
+2;Gorla - Precotto;2019;SCIA;14;33;36;6;5577;759;639;0;0;0;0;;Impresa / Societ\x85;118;59;si;;s\x8d;;;;
+6;Bande Nere;2019;SCIA;28;70;96;7;6657;1804;2052;0;0;0;0;;Altro;73;33;;;s\x8d;;;;
+2;Gorla - Precotto;2019;SCIA;5;11;10;1;1687;255;383;0;0;0;0;;Impresa / Societ\x85;118;59;si;;s\x8d;;;;
+5;Vigentino - Q.re Fatima;2019;SCIA;75;229;261;5;17443;4849;3897;0;0;0;0;;Altro;21;49;si;;s\x8d;;;;
+8;Tre Torri;2019;SCIA;29;;;6;12795;3792;4102;;;;;;Altro;;;si;;s\x8d;;s\x8d;;
+8;Tre Torri;2019;SCIA;25;;;6;10374;3067;3315;;;;;;Altro;;;si;;s\x8d;;s\x8d;;
+8;Q.re Gallaratese - Q.re San Leonardo - Lampugnano;2019;Permesso di costruire;145;;;24;62856;12396;9808;;;;;;Impresa / Societ\x85;;;si;;s\x8d;;s\x8d;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+6;Lorenteggio;2019;Permesso di costruire;24;62;38;9;10600;1448;645;0;0;86;0;;Altro;21;47;si;;s\x8d;;s\x8d;;
+6;Porta Magenta;2019;SCIA Alternativa;8;16;8;2;1470;395;129;0;0;0;0;;Impresa / Societ\x85;82;6;;;;s\x8d;;;
+3;Lambrate - Ortica;2019;SCIA;54;183;162;9;20375;4077;5973;;;;;;Cooperativa edilizia;60;44;;;;;;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;42;43;si;s\x8d;s\x8d;;;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;42;43;si;s\x8d;s\x8d;;;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;42;43;si;s\x8d;s\x8d;;;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;42;43;si;s\x8d;s\x8d;;;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;45;51;si;s\x8d;s\x8d;;;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;42;43;si;s\x8d;s\x8d;;;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;45;51;si;s\x8d;s\x8d;;;;
+4;XXII Marzo;2019;SCIA;36;55;112;8;17451;1627;2640;;;;;;Altro;54;46;si;;s\x8d;;s\x8d;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;42;43;si;s\x8d;s\x8d;;;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;45;51;si;s\x8d;s\x8d;;;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;42;43;si;s\x8d;s\x8d;;;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;45;51;si;s\x8d;s\x8d;;;;
+2;Greco - Segnano;2019;SCIA;12;32;29;6;4270;648;812;;;;;;Impresa / Societ\x85;26;66;si;s\x8d;s\x8d;;;;
+2;Greco - Segnano;2019;SCIA;1;5;4;2;534;91;46;;;;;;Impresa / Societ\x85;26;66;si;s\x8d;s\x8d;;;;
+5;Pta Romana;2019;SCIA;34;115;71;8;55900;2138;2062;;;;;;Altro;12;2;si;;s\x8d;s\x8d;s\x8d;;
+5;Porta Ticinese - Conca del Naviglio;2019;Permesso di costruire;498;498;;12;49017;15836;;;;503;;;Altro;172;3;si;;;;s\x8d;;
+2;Adriano;2019;SCIA;1;1;3;2;395;45;117;;;;;;Altro;42;43;si;s\x8d;s\x8d;;;;
+1;Brera;2019;Permesso di costruire;32;120;168;10;31596;3379;4682;;;;;uffici;Altro;65;39;si;;s\x8d;;s\x8d;;
+2;Adriano;2019;Permesso di costruire;20;61;66;10;6709;1338;2179;;;;;;Cooperativa edilizia;59;41;si;;s\x8d;;;;
+9;Comasina;2019;Permesso di costruire;8;29;39;4;2412;673;1098;;;;;;Impresa / Societ\x85;97;92;si;s\x8d;s\x8d;;;;
+8;Maggiore - Musocco - Certosa;2019;Permesso di costruire;55;176;178;10;19953;3542;2925;;;;;;Impresa / Societ\x85;54;47;si;;s\x8d;;;;
+8;Maggiore - Musocco - Certosa;2019;Permesso di costruire;85;312;318;24;34028;6199;4102;0;0;0;0;;Impresa / Societ\x85;53;43;si;;s\x8d;;;;
+4;Umbria - Molise - Calvairate;2019;Permesso di costruire;28;82;75;7;5045;1508;1060;0;0;0;0;;Impresa / Societ\x85;;45;si;s\x8d;s\x8d;;;;
+8;Pagano;2019;Permesso di costruire;13;38;42;8;7390;918;1144;;;;;;Altro;11;53;si;s\x8d;s\x8d;s\x8d;;;
+7;Quarto Cagnino;2019;Permesso di costruire;44;112;112;6;12271;2413;3470;;;;;;Impresa / Societ\x85;30;43;si;s\x8d;s\x8d;;;;
+1;Porta Ticinese - Conca del Naviglio;2019;Permesso di costruire;10;24;21;5;2287;584;199;;178;;;;Altro;59;60;si;;s\x8d;;;;
+6;Barona;2019;Permesso di costruire;37;73;68;5;17664;1850;2473;;;;;;Altro;127;4;si;s\x8d;s\x8d;;;;
+7;Quinto Romano;2019;Permesso di costruire;22;75;80;7;6999;1430;2144;;;;;;Cooperativa edilizia;72;54;si;;s\x8d;;s\x8d;;
+6;Porta Genova;2019;Permesso di costruire;23;82;78;10;5898;1763;1893;0;0;0;0;;Impresa / Societ\x85;74;54;si;;s\x8d;;;;
+5;Scalo Romana;2019;Permesso di costruire;72;277;226;17;52503;5171;8886;;;;;;Altro;97;4;si;;s\x8d;;;;
+9;Greco - Segnano;2019;Permesso di costruire;4;4;10;3;953;121;165;0;0;0;0;;Altro;103;78;si;s\x8d;s\x8d;;;;
+6;Lorenteggio;2019;Permesso di costruire;26;69;41;10;12000;1690;716;0;0;65;0;;Altro;23;47;si;;s\x8d;;s\x8d;;
+4;Corsica;2019;Permesso di costruire;36;109;99;12;18103;2505;3013;;;;;;Cooperativa edilizia;76;47;si;;;;s\x8d;;
+4;Corsica;2019;Permesso di costruire;32;105;90;12;17011;2360;2801;;;;;;Cooperativa edilizia;78;47;si;;;;s\x8d;;
+4;Corsica;2019;Permesso di costruire;15;40;35;8;7624;874;1270;;;;;;Cooperativa edilizia;81;46;si;;;;s\x8d;;
+9;Dergano;2019;Permesso di costruire;43;130;100;14;7885;2460;1330;0;0;0;0;;Altro;18;43;si;;s\x8d;;;;
+2;Gorla - Precotto;2019;Permesso di costruire;61;205;215;9;16000;3850;4200;;;;;;Cooperativa edilizia;29;59;si;;s\x8d;;s\x8d;;
+3;Citta' studi;2019;Permesso di costruire;99;353;407;6;28694;8030;6670;;;;;;Impresa / Societ\x85;5;42;si;;s\x8d;;s\x8d;;
+8;Trenno;2019;Permesso di costruire;9;33;34;8;10200;1260;1000;;;;;;Persona fisica;13;49;si;;s\x8d;;;;
+6;Porta Genova;2019;Permesso di costruire;1;4;4;1;346;107;40;;;;;;Impresa / Societ\x85;80;71;;s\x8d;s\x8d;;;;
+9;Comasina;2019;Permesso di costruire;36;132;172;6;20397;3066;1151;0;0;0;0;;Altro;19;46;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;28;68;42;10;12000;1732;671;0;0;118;0;;Altro;28;47;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;34;81;55;10;12000;1957;735;;;;;;Altro;35;48;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;26;65;46;10;12000;1718;745;0;0;205;0;;Altro;33;48;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;28;68;44;10;12000;1715;740;0;0;0;0;;Altro;32;48;si;;s\x8d;;s\x8d;;
+6;Ronchetto sul Naviglio - Q.re Lodovico il Moro;2019;Permesso di costruire;43;140;120;5;9840;2909;2283;;;;;;Altro;91;50;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;26;72;44;10;12000;1780;755;0;0;80;0;;Altro;23;47;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;32;68;48;9;10600;1728;604;0;0;0;0;;Altro;25;47;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;36;84;56;10;12000;1975;665;0;0;0;0;;Altro;28;47;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;24;58;38;9;10600;1484;640;0;0;0;0;;Altro;25;47;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;28;79;44;10;12000;2025;749;;;;;;Altro;23;47;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2019;Permesso di costruire;23;68;38;10;12000;1770;752;0;0;76;0;;Altro;22;47;si;;s\x8d;;s\x8d;;
+9;Comasina;2019;Permesso di costruire;34;99;82;16;16446;2081;1958;;;;;;Cooperativa edilizia;93;49;si;;s\x8d;s\x8d;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2019;Permesso di costruire;46;154;132;7;16401;3088;1992;;;;;;Altro;69;44;si;;s\x8d;;;;
+6;Lorenteggio;2019;Permesso di costruire;17;64;32;9;10600;2030;677;0;0;0;0;;Altro;21;47;si;;s\x8d;;s\x8d;;
+6;Bande Nere;2019;Permesso di costruire;15;61;45;8;10014;1177;2057;0;0;0;0;;Altro;62;79;;;s\x8d;;;;
+9;Porta Garibaldi - Porta Nuova;2019;Permesso di costruire;8;23;23;4;2700;512;269;;;30;;;Persona fisica;42;47;si;s\x8d;s\x8d;;;;
+6;Moncucco - San Cristoforo;2020;SCIA;107;294;288;4;28614;5610;5015;;;950;;;Altro;94;48;si;;s\x8d;;s\x8d;;
+2;Gorla - Precotto;2020;SCIA;695;695;695;7;104606;14414;7267;0;0;0;0;;Impresa / Societ\x85;87;24;si;;s\x8d;;;;
+2;Greco - Segnano;2020;SCIA;25;71;91;3;5877;1784;1417;;;;;;Altro;;60;si;s\x8d;s\x8d;;s\x8d;;
+2;Greco - Segnano;2020;SCIA;27;79;94;4;6440;1948;1417;;;;;;Altro;;57;si;s\x8d;s\x8d;;s\x8d;;
+2;Adriano;2020;SCIA;36;140;126;7;13292;2683;4322;;;;;;Cooperativa edilizia;52;43;si;;;s\x8d;s\x8d;;
+8;Villapizzone - Cagnola - Boldinasco;2020;SCIA;34;122;178;17;23132;2634;2457;;;;;;Impresa / Societ\x85;75;45;si;;s\x8d;;s\x8d;;
+8;Villapizzone - Cagnola - Boldinasco;2020;Permesso di costruire;47;133;152;9;16188;3177;2397;;;;;;Altro;51;39;si;s\x8d;s\x8d;;;;
+3;Lambrate - Ortica;2020;SCIA;107;330;341;9;60137;6893;7473;0;0;0;0;;Altro;70;48;si;;s\x8d;;s\x8d;;
+7;Quarto Cagnino;2020;SCIA;14;37;37;7;2344;727;310;;;;;;Impresa / Societ\x85;23;85;si;s\x8d;s\x8d;;;;
+8;Maggiore - Musocco - Certosa;2020;SCIA;48;137;169;12;17198;3100;4428;;;318;;;Impresa / Societ\x85;69;44;si;;s\x8d;;;;
+8;Villapizzone - Cagnola - Boldinasco;2020;SCIA;25;80;114;13;14006;1499;2117;;;;;;Impresa / Societ\x85;77;47;si;;s\x8d;;s\x8d;;
+9;Isola;2020;SCIA;9;32;27;6;3006;588;258;;;207;;UFFICI;Persona fisica;119;62;si;;s\x8d;;;;
+9;Greco - Segnano;2020;SCIA;35;95;137;6;7095;2205;1538;;;;;;Impresa / Societ\x85;;;si;;s\x8d;;;;
+3;Cimiano - Rottole - Q.re Feltre;2020;SCIA;113;405;385;20;45533;7030;9032;;;;;;Altro;124;45;si;;s\x8d;;;;
+2;Adriano;2020;SCIA;13;51;50;7;3290;974;1298;0;0;0;0;;Cooperativa edilizia;56;43;si;;s\x8d;s\x8d;s\x8d;;
+2;Adriano;2020;SCIA;28;109;87;13;7203;2154;2760;0;0;0;0;;Cooperativa edilizia;66;64;si;;s\x8d;s\x8d;s\x8d;;
+6;Giambellino;2020;SCIA;34;102;125;20;8472;2824;2000;0;0;0;0;;Impresa / Societ\x85;80;42;si;;s\x8d;;s\x8d;;
+8;Villapizzone - Cagnola - Boldinasco;2020;SCIA;44;162;230;20;27218;3418;2861;;;;;;Impresa / Societ\x85;74;45;si;;s\x8d;;s\x8d;;
+8;Villapizzone - Cagnola - Boldinasco;2020;SCIA Alternativa;10;27;23;6;6819;580;1022;;;;;;Persona fisica;86;50;si;;s\x8d;;;;
+4;Corsica;2020;Permesso di costruire;37;120;103;10;13054;2311;1247;;;;;;Impresa / Societ\x85;208;45;si;;s\x8d;;s\x8d;;
+5;Morivione;2020;SCIA Alternativa;38;115;114;8;13611;2442;4562;;;;;;Impresa / Societ\x85;55;51;si;;s\x8d;s\x8d;;;
+4;Corsica;2020;Permesso di costruire;21;80;80;9;18050;2823;1499;;;;;;Impresa / Societ\x85;208;45;si;;s\x8d;;s\x8d;;
+8;Villapizzone - Cagnola - Boldinasco;2020;SCIA Alternativa;17;56;52;6;11000;1145;1674;;;;;;Persona fisica;86;50;si;;s\x8d;;;;
+3;Cimiano - Rottole - Q.re Feltre;2020;SCIA Alternativa;55;211;202;24;22387;3623;1565;;;;;;Impresa / Societ\x85;135;43;si;;s\x8d;;;;
+6;Moncucco - San Cristoforo;2020;SCIA Alternativa;5;10;10;4;1400;192;206;;;;;;Impresa / Societ\x85;23;41;;;s\x8d;;;;
+3;Cimiano - Rottole - Q.re Feltre;2020;SCIA Alternativa;35;91;134;17;16045;2456;1266;;;;;;Impresa / Societ\x85;122;43;si;;s\x8d;;;;
+3;Cimiano - Rottole - Q.re Feltre;2020;SCIA Alternativa;18;36;36;4;7101;674;1572;;;;;;Impresa / Societ\x85;92;7;si;;s\x8d;;;;
+7;San Siro;2020;SCIA;8;13;24;4;1842;412;299;;;;;;Altro;69;61;si;;s\x8d;;;;
+6;Giambellino;2020;Permesso di costruire;26;50;56;5;4844;1227;798;;;;;;Ente pubblico;28;46;si;s\x8d;;;;;
+8;Quarto Oggiaro - Vialba - Musocco;2020;SCIA;127;427;611;15;56612;9238;10770;0;0;0;0;;Altro;115;38;si;;s\x8d;;s\x8d;;
+9;Maciachini - Maggiolina;2020;SCIA;16;32;26;5;2915;679;538;;;;;;Altro;45;33;si;s\x8d;s\x8d;s\x8d;;;
+7;Porta Magenta;2020;SCIA Alternativa;20;20;40;4;3780;700;300;;;;;;Impresa / Societ\x85;;;si;s\x8d;s\x8d;;;;
+2;Adriano;2020;Permesso di costruire;18;36;36;6;2411;787;656;;;;;;Impresa / Societ\x85;12;3;si;;;;;;
+2;Gorla - Precotto;2020;Permesso di costruire;13;39;26;6;5000;660;1000;0;0;0;0;;Impresa / Societ\x85;29;6;si;;s\x8d;;;;
+6;Porta Ticinese - Conchetta;2020;Permesso di costruire;20;63;55;6;75893;1313;1790;;;;;;Altro;25;49;;;s\x8d;;;;
+2;Gorla - Precotto;2020;SCIA;35;;;11;7350;2189;1581;;;;;;Impresa / Societ\x85;46;68;si;;s\x8d;;s\x8d;;
+4;Corsica;2020;Permesso di costruire;37;120;103;10;13054;2311;1213;;;;;;Impresa / Societ\x85;208;45;si;;s\x8d;;s\x8d;;
+1;Porta Vigentina - Porta Lodovica;2020;SCIA;46;100;184;9;12124;3608;1881;;;324;;;Altro;;;;;s\x8d;;s\x8d;;
+1;Duomo;2020;SCIA;13;25;43;6;14993;2068;778;;;526;;;Altro;98;33;;;s\x8d;;s\x8d;;
+6;Porta Ticinese - Conchetta;2020;Permesso di costruire;28;75;86;4;13525;1883;912;;;;;Muri strutture tramezzi pianerottoli;Altro;82;55;si;;s\x8d;;;;
+4;Pta Romana;2020;Permesso di costruire;10;30;28;3;3584;495;44;0;0;0;0;;Altro;391;53;si;;s\x8d;;s\x8d;;
+2;Adriano;2020;Permesso di costruire;3;9;11;3;639;198;77;;;;;;Persona fisica;;;;;;;;;
+2;Gorla - Precotto;2020;SCIA;23;70;56;6;6500;1494;1249;0;0;0;0;;Impresa / Societ\x85;52;57;si;s\x8d;s\x8d;s\x8d;;;
+1;Guastalla;2020;Permesso di costruire;39;94;96;7;11500;2494;246;;;;;uffici;Altro;89;67;si;;s\x8d;;s\x8d;;
+9;Affori;2020;Permesso di costruire;96;396;288;10;27243;7972;10608;;;;;;Cooperativa edilizia;;;;;;;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2020;Permesso di costruire;5;28;24;6;3391;430;670;0;0;0;0;;Persona fisica;;;si;;s\x8d;;s\x8d;;
+8;Villapizzone - Cagnola - Boldinasco;2020;Permesso di costruire;19;53;63;9;5027;1182;2032;;;;;;Altro;73;55;;;s\x8d;s\x8d;;;
+8;Sarpi;2020;Permesso di costruire;20;59;74;7;9405;1408;1441;;;;;;Altro;106;48;;;;;;s\x8d;
+4;Corsica;2020;Permesso di costruire;95;320;286;9;44159;6271;10733;;;;;prod. non manifatt.+serv.;Altro;161;44;si;;s\x8d;;s\x8d;;
+7;Quinto Romano;2020;Permesso di costruire;24;79;68;7;7759;1587;2430;;;;;;Cooperativa edilizia;68;49;si;;s\x8d;;s\x8d;;
+5;Pta Romana;2020;Permesso di costruire;57;114;228;6;26532;4334;4781;0;0;0;0;;Altro;8;38;si;;s\x8d;;;;
+6;Ronchetto sul Naviglio - Q.re Lodovico il Moro;2020;SCIA;3;9;12;2;765;248;58;;;;;;Impresa / Societ\x85;;17;;s\x8d;s\x8d;;;;
+3;Citta' studi;2020;Permesso di costruire;93;275;156;11;18500;6602;4075;0;0;0;0;;Impresa / Societ\x85;44;41;si;s\x8d;s\x8d;;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2020;Permesso di costruire;105;354;463;11;41687;9681;9121;0;0;0;0;;Altro;50;49;si;;s\x8d;;s\x8d;;
+6;Bande Nere;2020;Permesso di costruire;6;15;16;5;2600;415;517;;;;;;Impresa / Societ\x85;;26;si;s\x8d;s\x8d;;;;
+6;Lorenteggio;2020;Permesso di costruire;103;310;410;9;56656;7251;7607;;;;;Servizi convenzionati con Comune;Cooperativa edilizia;116;4;si;;s\x8d;;;;
+2;Greco - Segnano;2020;SCIA;24;59;64;8;9414;1391;2063;;;;;;Impresa / Societ\x85;27;47;si;s\x8d;s\x8d;;;;
+8;Quarto Oggiaro - Vialba - Musocco;2020;SCIA Alternativa;64;214;308;15;28504;4628;5293;0;0;0;0;;Impresa / Societ\x85;115;38;si;;s\x8d;;s\x8d;;
+7;Baggio - Q.re degli Olmi - Q.re Valsesia;2020;Permesso di costruire;26;66;67;5;4641;1376;2089;;;;;;Impresa / Societ\x85;22;;si;s\x8d;s\x8d;;;;
+8;Quarto Oggiaro - Vialba - Musocco;2020;SCIA Alternativa;63;213;303;15;28504;4610;5478;0;0;0;0;;Impresa / Societ\x85;115;38;si;;s\x8d;;s\x8d;;
+1;Magenta - S.Vittore;2020;Permesso di costruire;14;28;42;8;4181;1133;1157;0;0;0;0;UFFICI DIREZIONALI;Altro;57;47;si;;s\x8d;;;;
+5;Tibaldi;2020;SCIA;9;25;27;6;2649;581;749;0;0;0;0;;Impresa / Societ\x85;50;55;si;;s\x8d;;;;
+6;Porta Genova;2020;Permesso di costruire;13;40;43;9;4819;798;518;;;163;;;Impresa / Societ\x85;87;45;si;;s\x8d;s\x8d;;;
+6;Giambellino;2020;Permesso di costruire;24;41;52;5;4160;1020;801;;;;;;Ente pubblico;28;46;si;s\x8d;;;;;
+9;Dergano;2021;SCIA Alternativa;5;15;20;2;1159;273;49;0;0;0;0;;Impresa / Societ\x85;300;53;si;;s\x8d;s\x8d;;;
+9;Dergano;2021;SCIA Alternativa;2;8;8;2;537;163;;;;;;;Impresa / Societ\x85;194;65;si;s\x8d;s\x8d;;;;
+8;Sarpi;2021;SCIA Alternativa;2;6;10;5;1953;181;434;;;;;;Persona fisica;68;51;si;;s\x8d;;s\x8d;;
+9;Dergano;2021;SCIA Alternativa;8;20;19;6;2636;619;657;;;85;;;Impresa / Societ\x85;58;50;si;s\x8d;s\x8d;;;;
+9;Bovisa;2021;SCIA Alternativa;9;36;36;6;4213;750;350;0;0;0;0;;Altro;67;51;si;;s\x8d;;s\x8d;;
+6;Porta Ticinese - Conchetta;2021;SCIA Alternativa;71;223;234;9;24241;5225;6049;;;;;;Impresa / Societ\x85;106;52;si;;s\x8d;;;;
+9;Bovisa;2021;SCIA Alternativa;35;104;114;6;11859;1720;1312;0;0;0;0;;Altro;67;51;si;;s\x8d;;s\x8d;;
+3;Lambrate - Ortica;2021;SCIA Alternativa;31;74;33;7;5774;1925;;;;;;;Cooperativa edilizia;65;49;si;;s\x8d;;s\x8d;;
+8;Maggiore - Musocco - Certosa;2021;SCIA Alternativa;35;112;115;8;14000;2570;1697;;;;;;Impresa / Societ\x85;86;50;si;;s\x8d;;;;
+2;Loreto - Casoretto - NoLo;2021;SCIA Alternativa;44;117;122;5;13070;2651;713;;;56;;;Impresa / Societ\x85;116;44;si;;s\x8d;s\x8d;;;
+8;Villapizzone - Cagnola - Boldinasco;2021;SCIA Alternativa;10;29;37;9;3259;626;350;;;;;;Impresa / Societ\x85;89;41;si;;s\x8d;s\x8d;;;
+9;Dergano;2021;Permesso di costruire;32;80;92;9;13168;1880;1729;;;;;;Impresa / Societ\x85;108;52;si;;s\x8d;s\x8d;;;
+6;Porta Genova;2021;SCIA Alternativa;15;56;80;9;5236;1342;488;;;;;commerciale;Impresa / Societ\x85;103;46;si;;s\x8d;;;;
+2;Isola;2021;SCIA Alternativa;10;26;25;8;4817;560;690;;;;;;Altro;31;59;;;;;;;
+8;Ghisolfa;2021;SCIA Alternativa;47;136;137;12;26500;3289;4805;;;;;;Impresa / Societ\x85;45;45;si;;s\x8d;s\x8d;;;
+1;Magenta - S.Vittore;2021;SCIA Alternativa;88;252;313;9;23073;6874;1956;0;0;1121;0;;Impresa / Societ\x85;45;34;si;;s\x8d;;;;
+8;Maggiore - Musocco - Certosa;2021;SCIA Alternativa;17;66;17;9;7287;1466;533;;;;;;Impresa / Societ\x85;86;50;si;;s\x8d;;;;
+9;Bovisa;2021;SCIA Alternativa;42;122;138;8;13847;2764;2498;;;;;;Impresa / Societ\x85;80;46;si;;s\x8d;;;;
+7;Baggio - Q.re degli Olmi - Q.re Valsesia;2021;SCIA Alternativa;20;64;48;6;7560;1500;1411;0;0;0;0;;Impresa / Societ\x85;12;54;si;;s\x8d;s\x8d;;;
+6;Ronchetto sul Naviglio - Q.re Lodovico il Moro;2021;SCIA Alternativa;12;42;60;5;13300;1056;1968;;;;;;Impresa / Societ\x85;28;51;si;s\x8d;;;s\x8d;;
+7;Quarto Cagnino;2021;SCIA Alternativa;12;38;41;6;2352;731;500;;;;;;Impresa / Societ\x85;23;33;si;s\x8d;s\x8d;;s\x8d;;
+6;Ronchetto sul Naviglio - Q.re Lodovico il Moro;2021;SCIA Alternativa;55;165;200;12;28380;3080;3215;;;;;;Impresa / Societ\x85;15;44;si;s\x8d;s\x8d;;s\x8d;;
+4;XXII Marzo;2021;SCIA Alternativa;11;33;42;9;8864;746;2057;;;;;;Impresa / Societ\x85;22;34;si;s\x8d;s\x8d;;;;
+2;Padova - Turro - Crescenzago;2021;SCIA Alternativa;11;24;26;5;1510;457;;;;;;;Impresa / Societ\x85;48;59;si;;s\x8d;s\x8d;;;
+8;Maggiore - Musocco - Certosa;2021;Permesso di costruire;72;189;203;14;41036;3923;7370;;;165;;;Altro;;45;si;;;;s\x8d;;
+2;Gorla - Precotto;2021;SCIA Alternativa;49;116;111;6;12313;2434;2836;;;;;;Impresa / Societ\x85;54;51;si;;s\x8d;;;;
+8;Villapizzone - Cagnola - Boldinasco;2021;SCIA Alternativa;16;20;32;6;11553;1783;551;0;0;0;0;;Impresa / Societ\x85;110;49;si;;s\x8d;s\x8d;;;
+9;Dergano;2021;SCIA Alternativa;2;6;8;2;537;163;;;;;;;Impresa / Societ\x85;194;65;si;s\x8d;s\x8d;;;;
+8;Villapizzone - Cagnola - Boldinasco;2021;SCIA Alternativa;38;119;115;8;8237;2562;3249;;;;;;Impresa / Societ\x85;0;;;;;;;;
+8;Ghisolfa;2021;SCIA Alternativa;16;29;39;10;21186;721;411;0;0;0;0;;Impresa / Societ\x85;38;43;si;s\x8d;s\x8d;;;;
+8;Maggiore - Musocco - Certosa;2021;Permesso di costruire;136;344;342;14;61286;7513;8672;;;952;;;Altro;;45;si;;;;s\x8d;;
+8;Maggiore - Musocco - Certosa;2021;Permesso di costruire;37;96;105;9;32489;1979;6599;;;;;;Altro;;44;si;;;;s\x8d;;
+8;Maggiore - Musocco - Certosa;2021;Permesso di costruire;72;186;215;14;39797;3630;7521;;;;;;Altro;;46;si;;;;s\x8d;;
+2;Gorla - Precotto;2021;SCIA Alternativa;61;184;177;11;24722;3640;4296;0;0;0;0;;Impresa / Societ\x85;59;53;si;;;s\x8d;;;
+8;Ghisolfa;2021;SCIA Alternativa;14;49;42;5;9326;1121;1358;;;;;;Impresa / Societ\x85;21;52;si;s\x8d;s\x8d;;;;
+4;Taliedo - Morsenchio - Q.re Forlanini;2021;SCIA Alternativa;35;115;130;9;13270;2578;10228;;;;;;Impresa / Societ\x85;25;5;si;;s\x8d;;;;
+9;Bruzzano;2021;SCIA Alternativa;17;64;80;6;5004;1542;1296;;;;;;Cooperativa edilizia;;;;;;;;s\x8d;
+2;Padova - Turro - Crescenzago;2021;SCIA Alternativa;55;105;107;10;7743;2309;0;0;0;0;0;;Impresa / Societ\x85;48;59;si;;s\x8d;s\x8d;;;
+8;Sarpi;2021;Permesso di costruire;8;26;28;4;3482;510;354;0;0;0;0;;Impresa / Societ\x85;93;58;si;;s\x8d;;;;
+6;Giambellino;2021;Permesso di costruire;13;54;65;7;5940;1215;765;0;0;0;0;;Altro;73;40;;;s\x8d;s\x8d;;;
+6;Bande Nere;2021;Permesso di costruire;18;33;36;5;4847;728;1097;0;0;0;0;;Persona fisica;90;63;;;s\x8d;;;;
+1;Guastalla;2021;Permesso di costruire;68;205;256;7;21255;5351;7854;;;;;UFFICI;Altro;58;37;si;;;;s\x8d;;
+5;Tibaldi;2021;Permesso di costruire;91;182;182;11;21568;3338;5105;0;0;0;0;;Altro;72;57;si;;s\x8d;;s\x8d;;
+9;Niguarda - Ca? Granda - Prato Centenaro - Q.re Fulvio Testi;2021;Permesso di costruire;61;184;229;10;22061;4203;6202;;;;;;Impresa / Societ\x85;65;42;si;;s\x8d;;;;
+5;Tibaldi;2021;Permesso di costruire;129;269;258;5;36885;5700;4200;;;300;;UFFICI;Impresa / Societ\x85;171;52;si;s\x8d;s\x8d;;s\x8d;;
+7;Quarto Cagnino;2021;SCIA Alternativa;13;46;36;4;4303;898;614;;;;;;Altro;55;52;si;;s\x8d;;;;
+6;Giambellino;2021;Permesso di costruire;48;100;108;6;9475;1899;1510;;;;;servizi alla collettivitÃ ;Ente pubblico;28;46;si;s\x8d;;;;;
+5;Scalo Romana;2021;Permesso di costruire;34;79;99;3;13383;2305;4439;0;0;0;0;;Altro;16;53;si;;s\x8d;;s\x8d;;
+5;Chiaravalle;2021;Permesso di costruire;26;52;67;5;13792;1230;2123;;;;;;Altro;88;66;;;s\x8d;;;;
+6;Giambellino;2021;Permesso di costruire;36;65;15;6;6675;1620;870;;;;102;;Ente pubblico;30;59;si;s\x8d;;;;;
+6;Giambellino;2021;Permesso di costruire;50;96;112;6;9708;2371;1331;;;;101;;Ente pubblico;27;55;si;s\x8d;;;;;
+4;XXII Marzo;2021;Permesso di costruire;21;56;93;8;12243;1492;1220;0;0;1133;0;;Altro;90;31;si;;s\x8d;;;;
+6;Giambellino;2021;Permesso di costruire;12;30;24;5;6280;753;382;;;50;;HUB di comunitÃ ;Ente pubblico;28;46;si;s\x8d;;;;;
+4;XXII Marzo;2021;Permesso di costruire;18;64;71;6;9043;1583;1827;;;;;;Altro;102;50;si;;s\x8d;;;;
+9;Dergano;2021;SCIA Alternativa;8;20;19;6;2636;445;728;;;25;;;Impresa / Societ\x85;58;50;si;s\x8d;s\x8d;;;;
+5;Scalo Romana;2021;SCIA Alternativa;1;1;3;1;408;136;0;0;0;0;0;;Persona fisica;;;;;;;;;
+8;Maggiore - Musocco - Certosa;2021;SCIA Alternativa;119;333;120;27;76033;7981;9471;;;;;;Cooperativa edilizia;42;46;si;;s\x8d;;;;
+8;Maggiore - Musocco - Certosa;2021;SCIA Alternativa;122;333;122;14;68604;7189;9333;;;339;;;Cooperativa edilizia;76;53;si;;s\x8d;;;;
+8;Maggiore - Musocco - Certosa;2021;SCIA Alternativa;62;180;62;12;43926;3707;6787;;;168;;;Cooperativa edilizia;81;53;si;;s\x8d;;;;
+4;XXII Marzo;2021;Permesso di costruire;19;73;66;8;8403;1661;1955;;;;;;Altro;102;;si;;s\x8d;;;;
+8;De Angeli - Monte Rosa;2021;Permesso di costruire;7;16;14;5;1077;300;93;;;;;;Altro;69;0;si;;;;;;
+4;XXII Marzo;2021;Permesso di costruire;13;51;49;7;5762;1067;1651;;;;;;Altro;102;50;si;;s\x8d;;;;
+4;XXII Marzo;2021;Permesso di costruire;12;45;41;6;5836;1003;1535;;;;;;Altro;102;50;si;;s\x8d;;;;
+4;XXII Marzo;2021;Permesso di costruire;3;14;18;1;1018;323;170;;;;;;Altro;102;50;si;;s\x8d;;;;
+9;Bovisa;2021;SCIA Alternativa;269;1;1;7;20548;5508;6078;;;;;servizi culturali, ricreativi e gestiona;Impresa / Societ\x85;140;45;si;;s\x8d;;;;
+2;Gorla - Precotto;2021;Permesso di costruire;66;261;207;5;15359;4489;;;;;;;Persona fisica;;;si;;;;;;
+9;Dergano;2021;Permesso di costruire;31;82;97;9;11502;1878;1946;;;;;;Altro;108;52;si;;s\x8d;s\x8d;;;
+8;De Angeli - Monte Rosa;2022;SCIA Alternativa;17;50;56;9;3931;1207;1521;;;;;;Altro;10;51;si;;s\x8d;;s\x8d;;
+3;Cimiano - Rottole - Q.re Feltre;2022;SCIA Alternativa;31;87;75;9;9484;1630;1469;;;;;;Impresa / Societ\x85;73;51;si;;;;;;
+6;Moncucco - San Cristoforo;2022;SCIA Alternativa;18;47;59;4;3627;1145;785;;;;;;Impresa / Societ\x85;69;62;si;;s\x8d;;;;
+3;Cimiano - Rottole - Q.re Feltre;2022;SCIA Alternativa;18;62;62;8;6504;1227;646;0;0;0;0;;Impresa / Societ\x85;34;44;si;;;;;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;24;43;63;6;4263;1295;616;;;;;;Altro;61;47;si;;s\x8d;;s\x8d;;
+3;Cimiano - Rottole - Q.re Feltre;2022;SCIA Alternativa;50;167;156;9;21054;3253;3322;0;0;0;0;;Impresa / Societ\x85;66;49;si;;;;;;
+9;Dergano;2022;SCIA Alternativa;134;427;398;20;45245;14098;2177;;;;;;Impresa / Societ\x85;251;;si;;s\x8d;;s\x8d;;
+6;Giambellino;2022;SCIA Alternativa;34;126;108;8;7980;2569;1133;;;;;;Impresa / Societ\x85;15;01;si;;s\x8d;;;;
+3;Cimiano - Rottole - Q.re Feltre;2022;SCIA Alternativa;16;52;52;8;5764;1058;543;0;0;0;0;;Impresa / Societ\x85;34;44;si;;;;;;
+8;Maggiore - Musocco - Certosa;2022;SCIA Alternativa;85;251;308;13;18486;5459;9980;0;0;0;0;;Cooperativa edilizia;58;51;si;;s\x8d;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+8;Maggiore - Musocco - Certosa;2022;SCIA Alternativa;117;350;430;27;26493;7703;7660;0;0;0;0;;Cooperativa edilizia;59;45;si;;s\x8d;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+5;Scalo Romana;2022;SCIA Alternativa;65;248;60;13;12507;1743;3342;;;;;;Impresa / Societ\x85;62;48;si;;s\x8d;s\x8d;s\x8d;;
+6;Bande Nere;2022;SCIA Alternativa;19;55;52;9;6148;1134;948;;;;;;Impresa / Societ\x85;91;49;si;s\x8d;s\x8d;;;;
+8;Portello;2022;SCIA Alternativa;88;242;226;12;29671;6070;5020;;;;;;Impresa / Societ\x85;108;20;si;;;;;;
+6;Giambellino;2022;SCIA Alternativa;19;59;55;4;12260;1538;2650;;;;;;Altro;65;61;si;;s\x8d;;;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;30;60;94;9;6513;1958;1081;;;;;;Altro;61;43;si;;s\x8d;;s\x8d;;
+6;Moncucco - San Cristoforo;2022;SCIA Alternativa;43;125;119;5;17786;3063;2220;;;;;;Impresa / Societ\x85;64;49;si;;s\x8d;;s\x8d;;
+6;Moncucco - San Cristoforo;2022;SCIA Alternativa;22;66;65;5;8569;1497;1678;;;;;;Impresa / Societ\x85;64;49;si;;s\x8d;;s\x8d;;
+6;Moncucco - San Cristoforo;2022;SCIA Alternativa;22;66;65;5;8569;1497;1678;;;;;;Impresa / Societ\x85;64;49;si;;s\x8d;;s\x8d;;
+1;Duomo;2022;SCIA Alternativa;18;57;79;12;8100;1960;1864;;;200;;;Impresa / Societ\x85;101;39;si;;s\x8d;;s\x8d;;
+7;San Siro;2022;SCIA Alternativa;6;17;17;4;2218;412;202;;;;;;Impresa / Societ\x85;68;61;si;;s\x8d;;;;
+8;Maggiore - Musocco - Certosa;2022;SCIA Alternativa;119;282;313;13;51650;6262;7536;;;;;;Impresa / Societ\x85;41;43;si;;;;s\x8d;;
+7;Porta Magenta;2022;SCIA Alternativa;11;38;52;9;10822;974;1837;;;;;;Impresa / Societ\x85;128;37;;;s\x8d;;s\x8d;;
+8;Ghisolfa;2022;SCIA Alternativa;39;157;247;26;315900;5288;9002;0;0;0;0;SN direzionale;Impresa / Societ\x85;83;40;si;;;;s\x8d;;
+6;Barona;2022;SCIA Alternativa;2;14;6;2;1293;178;164;;;;;;Impresa / Societ\x85;109;8;si;;s\x8d;;;;
+9;Bruzzano;2022;SCIA Alternativa;24;78;83;9;6330;1665;2517;;;;;;Impresa / Societ\x85;98;46;si;;s\x8d;;;;
+2;Adriano;2022;SCIA Alternativa;235;656;586;21;61550;14792;4993;;;;;;Impresa / Societ\x85;57;39;si;;s\x8d;;;;
+8;Pagano;2022;SCIA Alternativa;15;42;45;7;3243;977;320;;;;;;Altro;93;67;si;;s\x8d;;;;
+6;Barona;2022;SCIA Alternativa;15;75;90;2;4860;1478;273;;;;;;Impresa / Societ\x85;4;33;si;s\x8d;s\x8d;;;;
+6;Barona;2022;SCIA Alternativa;2;14;6;2;1293;178;164;;;;;;Impresa / Societ\x85;59;8;si;;s\x8d;;;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;32;70;98;9;6524;1965;1077;;;;;;Altro;61;47;si;;s\x8d;;s\x8d;;
+6;Barona;2022;SCIA Alternativa;2;14;6;2;1293;178;164;;;;;;Impresa / Societ\x85;109;8;si;;s\x8d;;;;
+7;Forze Armate;2022;SCIA Alternativa;14;44;42;8;2970;926;760;;;;;;Impresa / Societ\x85;75;52;si;s\x8d;;s\x8d;;;
+5;Tibaldi;2022;SCIA Alternativa;20;58;66;6;3942;1252;875;0;0;0;0;;Impresa / Societ\x85;65;66;si;;s\x8d;;;;
+4;Lodi - Corvetto;2022;SCIA Alternativa;1;3;2;1;319;87;16;;;;;;Persona fisica;156;87;;;s\x8d;;;;
+2;Padova - Turro - Crescenzago;2022;SCIA Alternativa;14;45;40;7;6676;922;790;;;;;;Altro;70;54;si;;s\x8d;;;;
+2;Maciachini - Maggiolina;2022;SCIA Alternativa;10;29;28;4;5873;752;719;;;;;;Altro;25;59;si;s\x8d;s\x8d;;;;
+3;Cimiano - Rottole - Q.re Feltre;2022;SCIA Alternativa;52;172;160;9;21054;3350;3322;0;0;0;0;;Impresa / Societ\x85;66;49;si;;;;;;
+9;Niguarda - Ca? Granda - Prato Centenaro - Q.re Fulvio Testi;2022;SCIA Alternativa;1;4;4;2;531;206;38;0;0;0;0;;Persona fisica;214;74;;;s\x8d;;;;
+6;Barona;2022;SCIA Alternativa;2;14;6;2;1293;178;164;;;;;;Impresa / Societ\x85;109;8;si;;s\x8d;;;;
+2;Gorla - Precotto;2022;SCIA Alternativa;8;22;22;4;1209;403;443;;;;;;Impresa / Societ\x85;1;57;si;;;s\x8d;s\x8d;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;32;71;92;9;6429;1937;1134;;;;;;Altro;61;48;si;;s\x8d;;s\x8d;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;31;60;102;9;6559;1977;1068;;;;;;Altro;61;47;si;;s\x8d;;s\x8d;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;67;167;186;6;11568;3504;2325;;;;;;Altro;60;5;si;;s\x8d;;s\x8d;;
+9;Affori;2022;SCIA Alternativa;14;;;5;3867;1002;444;0;0;0;0;;Impresa / Societ\x85;;;si;;s\x8d;s\x8d;;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;24;43;63;6;4263;1295;770;;;;;;Altro;61;47;si;;s\x8d;;s\x8d;;
+7;Porta Magenta;2022;SCIA Alternativa;29;54;54;7;8415;1340;272;;;;;terziario;Impresa / Societ\x85;;;;;;;;;
+2;Adriano;2022;SCIA Alternativa;148;370;296;20;26796;7027;1894;;;;;;Impresa / Societ\x85;60;38;si;;s\x8d;;;;
+3;Parco Forlanini - Cavriano;2022;SCIA Alternativa;107;356;;12;28581;8322;2855;;;;;;Impresa / Societ\x85;69;38;si;s\x8d;s\x8d;s\x8d;;;
+2;Adriano;2022;SCIA Alternativa;119;314;271;18;22989;5995;2053;;;;;;Impresa / Societ\x85;60;38;si;;s\x8d;;;;
+6;Giambellino;2022;SCIA Alternativa;26;74;87;9;9140;1789;1251;0;0;0;0;;Impresa / Societ\x85;78;44;si;s\x8d;s\x8d;;;;
+6;Giambellino;2022;SCIA Alternativa;25;72;85;9;9140;1741;1299;0;0;0;0;;Impresa / Societ\x85;78;44;si;s\x8d;s\x8d;;;;
+8;Ghisolfa;2022;SCIA Alternativa;13;63;40;8;5055;1307;492;;;;;;Impresa / Societ\x85;;;si;;s\x8d;;;;
+8;Villapizzone - Cagnola - Boldinasco;2022;SCIA Alternativa;12;48;24;6;4024;431;242;;;284;;;Impresa / Societ\x85;152;62;si;;s\x8d;;;;
+8;Sarpi;2022;SCIA Alternativa;17;59;64;3;9000;1500;1500;;;;;;Impresa / Societ\x85;48;33;si;;s\x8d;;;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;60;166;175;7;34533;3504;12251;;;;;;Altro;58;43;si;;s\x8d;;s\x8d;;
+6;Moncucco - San Cristoforo;2022;SCIA Alternativa;20;59;57;5;8760;1307;1704;;;;;;Impresa / Societ\x85;64;49;si;;s\x8d;;s\x8d;;
+7;Forze Armate;2022;Permesso di costruire;26;62;160;8;7871;1820;1954;0;0;0;0;;Impresa / Societ\x85;75;46;;;;;;s\x8d;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2022;Permesso di costruire;6;18;6;4;1812;496;775;;;;;;Impresa / Societ\x85;58;6;si;;s\x8d;;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2022;Permesso di costruire;6;18;20;4;1812;496;775;;;;;;Impresa / Societ\x85;58;6;si;;s\x8d;;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2022;Permesso di costruire;6;18;20;4;1812;496;775;;;;;;Impresa / Societ\x85;58;6;si;;s\x8d;;;;
+6;Giambellino;2022;Permesso di costruire;42;104;88;5;7331;1848;1184;;;;;;Ente pubblico;28;46;si;s\x8d;;;;;
+6;Giambellino;2022;Permesso di costruire;19;38;38;5;3351;957;494;;;;;;Ente pubblico;28;46;si;s\x8d;;;;;
+6;Giambellino;2022;Permesso di costruire;22;37;45;5;3164;790;468;;;;;;Ente pubblico;28;46;si;s\x8d;;;;;
+9;Comasina;2022;SCIA Alternativa;14;29;32;5;5764;601;542;0;0;0;0;;Impresa / Societ\x85;52;58;si;;s\x8d;;;;
+6;Giambellino;2022;Permesso di costruire;90;297;377;12;41614;7210;6845;0;0;0;0;;Impresa / Societ\x85;90;44;si;;s\x8d;;s\x8d;;
+5;Scalo Romana;2022;Permesso di costruire;8;;;2;1669;556;;;;;;;Impresa / Societ\x85;;;;;;;;;
+2;Gorla - Precotto;2022;Permesso di costruire;16;45;44;6;7800;1030;1039;;;;;;Altro;76;5;si;s\x8d;s\x8d;;;;
+7;Forze Armate;2022;Permesso di costruire;31;71;177;9;9235;2137;2134;0;0;0;0;;Impresa / Societ\x85;69;41;;;;;;s\x8d;
+7;Forze Armate;2022;Permesso di costruire;35;83;213;10;10519;2433;2154;0;0;0;0;;Impresa / Societ\x85;73;43;;;;;;s\x8d;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2022;Permesso di costruire;6;18;20;4;1812;496;775;;;;;;Impresa / Societ\x85;58;6;si;;s\x8d;;;;
+9;Bruzzano;2022;SCIA Alternativa;35;103;134;9;8254;2432;5743;;;;;;Persona fisica;;;;;;;;s\x8d;
+7;Forze Armate;2022;Permesso di costruire;80;191;483;21;26186;5281;1933;0;0;0;0;;Impresa / Societ\x85;79;47;;;;;;s\x8d;
+7;Forze Armate;2022;Permesso di costruire;75;179;453;20;24685;4962;1954;0;0;0;0;;Impresa / Societ\x85;76;47;;;;;;s\x8d;
+7;Forze Armate;2022;Permesso di costruire;92;213;529;22;29515;5987;1892;0;0;0;0;;Impresa / Societ\x85;75;46;;;;;;s\x8d;
+7;Forze Armate;2022;Permesso di costruire;77;174;420;19;24118;4842;2457;0;0;0;0;;Impresa / Societ\x85;74;47;;;;;;s\x8d;
+7;Forze Armate;2022;Permesso di costruire;36;82;206;10;10726;2482;2263;0;0;0;0;;Impresa / Societ\x85;664;;;;;;;s\x8d;
+7;Forze Armate;2022;Permesso di costruire;29;67;165;9;8625;1995;2167;0;0;0;0;;Impresa / Societ\x85;69;44;;;;;;s\x8d;
+9;Isola;2022;SCIA Alternativa;42;65;70;14;17113;2862;1676;0;0;0;0;;Impresa / Societ\x85;47;45;si;;;;s\x8d;;
+9;Isola;2022;SCIA Alternativa;21;59;60;9;9581;1168;1766;0;0;0;0;;Impresa / Societ\x85;47;45;si;;;;s\x8d;;
+2;Loreto - Casoretto - NoLo;2022;Permesso di costruire;86;;;10;14944;4492;3769;0;0;0;0;;Impresa / Societ\x85;19;44;si;;s\x8d;;s\x8d;;
+7;Baggio - Q.re degli Olmi - Q.re Valsesia;2022;Permesso di costruire;14;38;58;5;6528;786;1961;;;;;;Persona fisica;87;52;si;;s\x8d;;;;
+7;De Angeli - Monte Rosa;2022;Permesso di costruire;12;34;33;9;6918;854;1081;;;;;;Altro;13;51;;;;;;;
+6;Bande Nere;2022;Permesso di costruire;21;72;62;7;11904;1629;1596;;;;;;Impresa / Societ\x85;87;45;si;;s\x8d;;s\x8d;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+2;Stazione Centrale - Ponte Seveso;2022;Permesso di costruire;8;31;26;9;4950;676;877;0;0;0;0;;Impresa / Societ\x85;64;66;si;s\x8d;s\x8d;;;;
+4;Monlue' - Ponte Lambro;2022;Permesso di costruire;14;14;28;5;2667;568;651;0;0;0;0;;Impresa / Societ\x85;41;59;;s\x8d;;s\x8d;;;
+7;Forze Armate;2022;Permesso di costruire;95;227;577;23;31062;6316;1896;0;0;0;0;;Impresa / Societ\x85;78;46;;;;;;s\x8d;
+9;Affori;2022;SCIA Alternativa;4;10;16;4;878;240;101;;;;;;Persona fisica;27;67;si;;s\x8d;s\x8d;;;
+7;Forze Armate;2022;Permesso di costruire;31;72;180;9;9235;2136;1994;0;0;0;0;;Impresa / Societ\x85;72;44;;;;;;s\x8d;
+7;Forze Armate;2022;SCIA Alternativa;77;246;208;14;44265;4844;8300;;;;;;Impresa / Societ\x85;113;45;si;;s\x8d;;s\x8d;;
+7;Stadio - Ippodromi;2022;SCIA Alternativa;28;81;76;15;25352;2183;5796;;;;;;Impresa / Societ\x85;67;37;si;;s\x8d;;s\x8d;;
+8;Portello;2022;SCIA Alternativa;11;23;42;5;2292;696;515;;;249;;;Impresa / Societ\x85;24;53;si;s\x8d;s\x8d;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+9;Isola;2022;SCIA Alternativa;34;97;110;9;38793;2502;5081;;;;;;Impresa / Societ\x85;71;41;si;;s\x8d;;s\x8d;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;49;160;161;10;38158;3029;4592;;;;;;Impresa / Societ\x85;80;37;si;;s\x8d;;s\x8d;;
+6;Bande Nere;2022;Permesso di costruire;17;48;57;6;9427;1108;1593;;;;;;Altro;60;55;si;s\x8d;s\x8d;;;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;34;110;122;10;28896;2397;3976;;;;;;Impresa / Societ\x85;80;37;si;;s\x8d;;s\x8d;;
+9;Bicocca;2022;SCIA Alternativa;59;;;16;27424;3621;3501;;;;;;Impresa / Societ\x85;;;si;;;;;;
+2;Padova - Turro - Crescenzago;2022;SCIA Alternativa;70;184;188;7;15041;4120;2575;;;;;;Impresa / Societ\x85;75;48;si;;s\x8d;;s\x8d;;
+8;Sarpi;2022;Permesso di costruire;16;44;39;6;3366;1017;460;;;;;;Impresa / Societ\x85;69;45;si;;s\x8d;;;;
+9;Bovisa;2022;Permesso di costruire;99;;;5;28023;4248;4382;;;;;;Altro;151;38;si;;s\x8d;;;;
+3;Lambrate - Ortica;2022;SCIA Alternativa;54;195;191;8;14259;4275;2717;0;0;0;0;;Impresa / Societ\x85;57;33;si;;s\x8d;;;;
+2;Gorla - Precotto;2023;Permesso di costruire;55;158;113;12;32319;3552;9313;;;;;;Cooperativa edilizia;71;45;si;;s\x8d;;;;
+8;Quarto Oggiaro - Vialba - Musocco;2023;Permesso di costruire;59;165;186;23;70932;4169;7406;;;2317;;parcheggi attività commerciale;Impresa / Societ\x85;66;45;si;;s\x8d;;;;
+4;Corsica;2023;SCIA Alternativa;15;42;47;5;11208;1140;2195;;;;;;Altro;20;6;si;s\x8d;s\x8d;;;;
+9;Greco - Segnano;2023;SCIA Alternativa;18;47;57;8;11194;2128;1255;0;0;0;0;;Impresa / Societ\x85;95;55;si;;s\x8d;;;;
+2;Adriano;2023;SCIA Alternativa;103;368;265;14;36062;7130;6868;0;0;0;0;;Impresa / Societ\x85;25;42;si;;;;;;
+8;Villapizzone - Cagnola - Boldinasco;2023;SCIA Alternativa;43;161;119;14;28457;2911;3911;;;;;;Cooperativa edilizia;47;55;si;;s\x8d;;s\x8d;;
+8;Villapizzone - Cagnola - Boldinasco;2023;SCIA Alternativa;60;203;188;7;36542;3908;5517;;;;;;Cooperativa edilizia;44;58;si;;s\x8d;;s\x8d;;
+2;Gorla - Precotto;2023;SCIA Alternativa;16;42;45;7;10036;1099;1818;;;;;;Impresa / Societ\x85;49;51;si;;s\x8d;;;;
+7;Bande Nere;2023;SCIA Alternativa;14;41;37;6;5872;821;1014;0;0;0;0;;Impresa / Societ\x85;79;19;si;s\x8d;s\x8d;;;;
+4;Taliedo - Morsenchio - Q.re Forlanini;2023;SCIA Alternativa;19;56;62;6;4026;1243;1234;;;;;;Impresa / Societ\x85;57;52;si;;s\x8d;;;;
+5;Vigentino - Q.re Fatima;2023;SCIA Alternativa;45;192;143;11;17080;3619;5948;0;0;0;0;;Cooperativa edilizia;77;46;si;;s\x8d;s\x8d;;;
+3;Lambrate - Ortica;2023;SCIA Alternativa;74;195;220;9;38675;4676;5675;;;;;;Impresa / Societ\x85;80;52;si;;s\x8d;;;;
+2;Stazione Centrale - Ponte Seveso;2023;Permesso di costruire;21;50;55;10;10422;1313;1239;0;0;0;0;;Impresa / Societ\x85;102;59;si;;s\x8d;;;;
+1;Duomo;2023;SCIA Alternativa;5;20;28;7;3268;515;494;;;;;;Impresa / Societ\x85;167;49;si;;s\x8d;;s\x8d;;
+5;Scalo Romana;2023;SCIA Alternativa;28;92;84;4;14000;2262;4500;;;;;;Impresa / Societ\x85;16;53;si;;s\x8d;;s\x8d;;
+6;Lorenteggio;2023;SCIA Alternativa;106;337;387;8;69362;8103;12346;0;0;0;0;;Impresa / Societ\x85;10;41;si;;s\x8d;;s\x8d;;
+4;Lodi - Corvetto;2023;SCIA Alternativa;17;40;;5;2730;910;;;;;;;Impresa / Societ\x85;;;si;s\x8d;s\x8d;;;;
+4;Umbria - Molise - Calvairate;2023;SCIA Alternativa;8;19;21;5;2049;345;;;;;;;Impresa / Societ\x85;;49;si;;;;s\x8d;;
+9;Bruzzano;2023;SCIA Alternativa;68;214;248;9;34616;4673;2910;;;;;;Impresa / Societ\x85;59;41;si;;s\x8d;;;;
+2;Padova - Turro - Crescenzago;2023;SCIA Alternativa;15;43;45;7;6065;961;1410;0;0;0;0;;Impresa / Societ\x85;90;54;;;s\x8d;;;;
+2;Padova - Turro - Crescenzago;2023;Permesso di costruire;56;180;130;7;20880;3767;2657;0;0;0;0;;Impresa / Societ\x85;75;49;si;;s\x8d;s\x8d;;;
+3;Cimiano - Rottole - Q.re Feltre;2023;SCIA Alternativa;23;65;79;8;9495;1480;1369;0;0;0;0;;Impresa / Societ\x85;51;56;si;;s\x8d;;;;
+8;Sarpi;2023;SCIA Alternativa;29;78;81;8;17936;1757;2826;;;;;;Impresa / Societ\x85;72;48;si;;s\x8d;;s\x8d;;
+3;Lambrate - Ortica;2023;Permesso di costruire;36;109;94;8;18754;2097;2698;0;0;0;0;;Impresa / Societ\x85;31;46;si;;s\x8d;;s\x8d;;
+3;Loreto - Casoretto - NoLo;2023;Permesso di costruire;12;31;42;8;4105;695;900;0;0;0;0;;Impresa / Societ\x85;60;45;si;;s\x8d;;;;
+9;Comasina;2023;Permesso di costruire;60;192;216;7;19098;4526;1697;;;;;;Altro;19;42;si;;s\x8d;;s\x8d;;
+2;Gorla - Precotto;2023;Permesso di costruire;22;74;60;9;10603;1442;1221;;;;;;Impresa / Societ\x85;49;49;;;s\x8d;;s\x8d;;
+2;Stazione Centrale - Ponte Seveso;2023;Permesso di costruire;15;33;35;5;1827;755;339;;;;;;Persona fisica;45;62;si;;s\x8d;;;;
+8;Sarpi;2023;Permesso di costruire;28;84;80;10;15932;2115;1833;;;;;;Impresa / Societ\x85;;;si;;s\x8d;;s\x8d;;
+5;Vigentino - Q.re Fatima;2023;Permesso di costruire;16;49;44;9;7046;1110;1210;;;;;;Altro;77;52;si;;s\x8d;s\x8d;;;
+2;Gorla - Precotto;2023;Permesso di costruire;16;50;49;5;3734;1149;1821;;;;;;Impresa / Societ\x85;46;58;si;;s\x8d;;;;
+2;Gorla - Precotto;2023;Permesso di costruire;2;6;7;3;587;184;399;;;;;;Impresa / Societ\x85;79;81;si;;s\x8d;;;;
+5;Porta Ticinese - Conca del Naviglio;2023;Permesso di costruire;10;29;33;5;6210;687;593;;;;;;Impresa / Societ\x85;63;54;si;;s\x8d;;s\x8d;;
+5;Porta Ticinese - Conca del Naviglio;2023;Permesso di costruire;1;6;5;3;1043;137;93;;;;;;Impresa / Societ\x85;92;80;si;;s\x8d;;s\x8d;;
+9;Dergano;2023;SCIA Alternativa;31;84;107;12;40000;2481;5831;0;0;0;0;;Impresa / Societ\x85;59;44;si;;s\x8d;;s\x8d;;
+1;Magenta - S.Vittore;2023;Permesso di costruire;15;41;45;6;6021;925;1248;0;0;0;0;;Impresa / Societ\x85;79;44;;;;;;s\x8d;
+9;Comasina;2023;SCIA Alternativa;28;81;91;8;12310;1924;1915;;;;;;Impresa / Societ\x85;;;si;;s\x8d;;;;
+2;Gorla - Precotto;2023;Permesso di costruire;14;40;63;5;4137;1167;844;;;;;;Impresa / Societ\x85;23;4;si;s\x8d;s\x8d;;;;
+7;Figino;2023;Permesso di costruire;42;118;126;6;12473;2461;4320;0;0;0;0;;Impresa / Societ\x85;14;35;si;;s\x8d;;;;
+7;Figino;2023;Permesso di costruire;6;30;38;5;4959;793;1016;;;;;uffici;Impresa / Societ\x85;23;50;si;;s\x8d;;;;
+4;Parco Forlanini - Cavriano;2023;Permesso di costruire;39;90;102;9;15966;1898;2358;;;;;;Altro;56;48;si;;s\x8d;;;;
+4;Taliedo - Morsenchio - Q.re Forlanini;2023;SCIA Alternativa;37;82;74;11;7074;2146;1633;0;0;0;0;;Impresa / Societ\x85;65;47;si;;s\x8d;;;;
+2;Stazione Centrale - Ponte Seveso;2023;Permesso di costruire;6;17;22;4;3663;463;428;;;;;;Altro;51;59;si;s\x8d;s\x8d;;;;
+1;Porta Ticinese - Conca del Naviglio;2023;Permesso di costruire;16;72;112;11;19583;2119;1437;0;0;0;0;;Impresa / Societ\x85;108;36;si;;s\x8d;s\x8d;s\x8d;;
+5;Stadera - Chiesa Rossa - Q.re Torretta - Conca Fallata;2023;Permesso di costruire;18;48;60;6;3500;980;750;;;;;;Persona fisica;;5;si;s\x8d;s\x8d;;;;
+5;Morivione;2023;Permesso di costruire;43;99;120;7;16680;1987;2656;;;;;;Altro;52;50;si;;s\x8d;;s\x8d;;
+2;Stazione Centrale - Ponte Seveso;2023;Permesso di costruire;1;4;2;1;284;88;;;;;;;Persona fisica;;;;;;;;;
+5;Porta Ticinese - Conca del Naviglio;2023;Permesso di costruire;61;166;160;8;40236;4155;5871;;;;;;Impresa / Societ\x85;59;41;;;;;;;
+8;Maggiore - Musocco - Certosa;2014;Permesso di costruire;30;110;95;6;11256;2175;2772;;;;;;Impresa / Societ\x85;30;44;si;;;;;;
+8;Maggiore - Musocco - Certosa;2014;Permesso di costruire;22;70;56;6;6833;1369;1927;;;;;;Impresa / Societ\x85;33;48;si;;;;;;
+8;Maggiore - Musocco - Certosa;2014;Permesso di costruire;23;74;70;10;10179;1418;2165;;;178;;;Impresa / Societ\x85;26;46;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+8;Maggiore - Musocco - Certosa;2014;Permesso di costruire;64;228;208;10;24836;3958;4743;;;256;;;Impresa / Societ\x85;23;41;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+8;Maggiore - Musocco - Certosa;2014;Permesso di costruire;108;308;315;24;38710;5867;6749;;;;;;Impresa / Societ\x85;26;45;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+9;Dergano;2014;SCIA Alternativa;44;114;96;14;8096;2362;2986;;;;;ufficio privato;Altro;26;48;si;s\x8d;;s\x8d;;;
+8;Sarpi;2014;Permesso di costruire;22;60;60;6;17074;1434;1950;;;;;;Altro;20;53;;;s\x8d;;;;
+6;Barona;2014;Permesso di costruire;103;294;254;8;19164;5697;3223;;;;;;Impresa / Societ\x85;39;49;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+8;Sarpi;2014;Permesso di costruire;97;307;285;9;57085;5624;9148;;;;;;Altro;;;si;;;;s\x8d;;
+7;San Siro;2014;Permesso di costruire;48;120;170;14;10968;3251;4508;;;;;;Persona fisica;22;41;si;s\x8d;s\x8d;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+9;Niguarda - Ca? Granda - Prato Centenaro - Q.re Fulvio Testi;2014;SCIA Alternativa;17;45;38;5;6076;896;1194;;;;;;Impresa / Societ\x85;29;54;si;;s\x8d;s\x8d;;;
+9;Bovisa;2014;SCIA Alternativa;36;90;84;7;13749;1765;3101;;;;;;Cooperativa edilizia;43;35;si;;s\x8d;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+4;Lodi - Corvetto;2014;SCIA Alternativa;6;15;12;5;2772;337;562;;;;;;Altro;24;66;si;s\x8d;s\x8d;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+8;Maggiore - Musocco - Certosa;2014;SCIA Alternativa;56;168;199;18;36359;3679;4709;;;;;;Altro;;;;;;;;;
+6;Bande Nere;2015;SCIA Alternativa;25;71;87;10;8807;1671;910;;;;;;Altro;33;46;si;s\x8d;;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+2;Gorla - Precotto;2015;SCIA Alternativa;11;33;32;5;2560;764;1109;;;;;;Impresa / Societ\x85;24;58;si;;;;;;
+1;Magenta - S.Vittore;2015;Permesso di costruire;37;114;50;5;13750;4585;1000;;;;;;Impresa / Societ\x85;;;si;;s\x8d;;;;
+3;Lambrate - Ortica;2015;SCIA Alternativa;1;4;3;2;429;110;28;;;;;;Persona fisica;68;78;;;;s\x8d;;;
+6;Bande Nere;2015;Permesso di costruire;15;35;23;5;2603;805;1866;;;;;;Impresa / Societ\x85;11;74;si;;s\x8d;;;;
+9;Affori;2015;SCIA Alternativa;102;283;496;18;25266;8103;140176;0;0;319;0;;Impresa / Societ\x85;60;49;si;;s\x8d;;s\x8d;;
+7;Baggio - Q.re degli Olmi - Q.re Valsesia;2015;Permesso di costruire;24;60;;8;3594;1106;1100;;;;;;Impresa / Societ\x85;;;;;;;;;
+2;Gorla - Precotto;2015;Permesso di costruire;66;195;189;14;13752;4048;3741;;;;;;Impresa / Societ\x85;36;39;si;s\x8d;s\x8d;s\x8d;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2015;Permesso di costruire;45;3;3;10;13653;4030;1907;;;211;;;Persona fisica;23;38;si;s\x8d;s\x8d;;;;
+2;Adriano;2015;Permesso di costruire;1;7;7;3;1395;303;65;;;;;;Persona fisica;23;59;si;s\x8d;;s\x8d;;;
+3;Loreto - Casoretto - NoLo;2015;SCIA Alternativa;4;13;12;6;1059;319;204;;;;;;Impresa / Societ\x85;151;;si;;s\x8d;;;;
+9;Greco - Segnano;2015;Permesso di costruire;4;15;23;5;2355;663;236;;;;;;Altro;13;36;si;;s\x8d;;s\x8d;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+7;Porta Magenta;2015;Permesso di costruire;12;30;47;06;4797;872;648;0;0;0;0;;Impresa / Societ\x85;8;50;si;s\x8d;s\x8d;s\x8d;;;
+7;Forze Armate;2015;SCIA Alternativa;17;39;53;4;9948;1254;866;;;;;comunitÃ  alloggio;Altro;30;5;si;;s\x8d;;;;
+1;Guastalla;2015;SCIA Alternativa;1;1;1;8;75;25;0;0;0;0;0;;Altro;100;3;;;;;;s\x8d;
+4;Lodi - Corvetto;2015;SCIA Alternativa;23;230;;8;8400;1547;2450;;;;;;Altro;27;4;si;s\x8d;;s\x8d;;;
+2;Gorla - Precotto;2015;SCIA Alternativa;14;38;32;6;3843;631;822;;;;;;Altro;19;26;si;;s\x8d;;;;
+2;Gorla - Precotto;2015;SCIA;13;34;30;6;3842;573;824;;;;;;Altro;19;26;si;;s\x8d;;;;
+1;Brera;2015;SCIA Alternativa;8;24;32;6;7201;526;2040;;;;;;Altro;57;75;;;s\x8d;;;;
+2;Gorla - Precotto;2015;Permesso di costruire;18;40;25;2;3717;1101;2554;0;0;0;0;;Persona fisica;;57;si;;;;;;
+8;Pagano;2015;Permesso di costruire;96;341;457;11;39423;7693;2404;;;314;;;Altro;12;38;si;;s\x8d;;s\x8d;;
+6;Porta Ticinese - Conchetta;2015;SCIA Alternativa;33;65;66;4;4210;1260;1118;;;;;;Impresa / Societ\x85;37;43;;;s\x8d;s\x8d;;;
+9;Comasina;2015;Permesso di costruire;7;14;15;2;1460;318;280;;;;;;Altro;54;62;si;s\x8d;;;;;
+6;Giambellino;2015;Permesso di costruire;4;16;19;3;3035;378;477;;;;;;Altro;25;60;si;;s\x8d;;;;
+6;Giambellino;2015;Permesso di costruire;17;52;50;6;9987;1207;1811;;;;;;Altro;13;56;si;;s\x8d;;;;
+6;Porta Ticinese - Conchetta;2015;SCIA Alternativa;52;150;159;9;36619;3045;1436;;;;;;Impresa / Societ\x85;41;45;si;s\x8d;s\x8d;;s\x8d;;
+1;Duomo;2015;Permesso di costruire;1;6;7;2;786;262;81;;;;;;Persona fisica;39;11;;;s\x8d;;;;
+7;Baggio - Q.re degli Olmi - Q.re Valsesia;2015;Permesso di costruire;2;8;14;4;1490;215;290;;;;;;Persona fisica;31;57;si;;s\x8d;s\x8d;;;
+2;Padova - Turro - Crescenzago;2014;SCIA Alternativa;10;17;18;3;1375;410;80;;;;;;Altro;77;79;;s\x8d;;s\x8d;;;
+1;Duomo;2014;Permesso di costruire;14;58;66;6;16392;2716;1528;;;;;terziario;Altro;23;42;si;;s\x8d;;;;
+2;Padova - Turro - Crescenzago;2014;SCIA Alternativa;17;44;45;4;2739;795;;;;;;;Impresa / Societ\x85;28;54;si;;s\x8d;;;;
+9;Niguarda - Ca? Granda - Prato Centenaro - Q.re Fulvio Testi;2014;SCIA Alternativa;18;52;51;6;2820;837;1292;;;;;;Impresa / Societ\x85;29;54;si;;s\x8d;s\x8d;;;
+4;Triulzo Superiore;2014;SCIA Alternativa;22;3;3;7;3448;1029;1203;;;;;;Persona fisica;35;51;;s\x8d;;s\x8d;;;
+2;Padova - Turro - Crescenzago;2014;SCIA Alternativa;22;78;78;6;12850;1485;2547;;;;;;Altro;21;45;si;s\x8d;s\x8d;s\x8d;;;
+8;Sarpi;2014;SCIA Alternativa;12;36;34;7;9873;817;1653;;;;;;Altro;12;61;;;s\x8d;;;;
+5;Scalo Romana;2014;Permesso di costruire;58;207;178;14;19428;3832;6303;;;;;;Cooperativa edilizia;24;41;si;;s\x8d;;;;
+8;Villapizzone - Cagnola - Boldinasco;2014;SCIA Alternativa;13;35;60;6;4228;762;1301;0;0;0;0;;Impresa / Societ\x85;9;55;si;;s\x8d;s\x8d;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2014;SCIA Alternativa;8;31;48;8;11200;1148;1365;;;;;uffici;Persona fisica;43;25;;s\x8d;s\x8d;;;;
+1;Magenta - S.Vittore;2014;Permesso di costruire;12;42;28;10;2675;790;915;;;;;;Impresa / Societ\x85;256;61;si;;s\x8d;;;;
+8;Villapizzone - Cagnola - Boldinasco;2014;Permesso di costruire;2;6;6;3;1500;142;257;;;;;;Persona fisica;38;55;;s\x8d;;s\x8d;;;
+3;Lambrate - Ortica;2014;SCIA Alternativa;67;193;170;8;23000;3788;2438;;;;;;Altro;32;54;;;s\x8d;;;;
+3;Lambrate - Ortica;2014;Permesso di costruire;151;;228;11;25806;6947;1655;;;;;;Persona fisica;24;38;si;s\x8d;s\x8d;;s\x8d;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+8;Sarpi;2014;Permesso di costruire;10;20;20;7;3694;451;1005;;;;;;Impresa / Societ\x85;10;47;si;s\x8d;s\x8d;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+1;Magenta - S.Vittore;2014;SCIA Alternativa;2;9;12;2;930;270;40;0;0;0;0;;Persona fisica;157;9;;;;s\x8d;;;
+7;De Angeli - Monte Rosa;2014;SCIA Alternativa;12;49;56;7;3691;1133;1230;;;;;;Altro;10;40;;;s\x8d;;;;
+4;Pta Romana;2014;SCIA Alternativa;36;93;142;7;11197;2388;1724;;;56;;;Altro;40;48;si;;s\x8d;;s\x8d;;
+5;Porta Vigentina - Porta Lodovica;2014;Permesso di costruire;105;405;260;10;54088;8677;5942;0;0;0;0;;Altro;5;24;si;;s\x8d;;;;
+8;Quarto Oggiaro - Vialba - Musocco;2014;SCIA Alternativa;6;19;19;6;2972;757;;;;;;;Persona fisica;;;;;;;;;
+5;Stadera - Chiesa Rossa - Q.re Torretta - Conca Fallata;2014;SCIA Alternativa;24;70;76;5;5709;1705;1636;;;;;;Altro;27;51;si;;;;;;
+8;Sarpi;2014;SCIA Alternativa;10;32;32;7;8116;827;1066;;;;;;Impresa / Societ\x85;12;63;;;s\x8d;;;;
+5;Porta Vigentina - Porta Lodovica;2014;SCIA Alternativa;22;50;30;4;3885;1205;476;0;0;0;0;;Impresa / Societ\x85;44;47;si;s\x8d;;s\x8d;;;
+8;Villapizzone - Cagnola - Boldinasco;2014;SCIA Alternativa;32;100;84;8;7989;2135;1825;;;;;;Altro;24;46;si;s\x8d;;s\x8d;;;
+6;Porta Ticinese - Conchetta;2014;Permesso di costruire;29;48;64;10;4234;1298;1374;;;;;;Altro;28;46;;s\x8d;s\x8d;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+7;San Siro;2014;SCIA Alternativa;8;13;15;4;1520;422;360;0;0;0;0;;Impresa / Societ\x85;67;54;;;s\x8d;;;;
+7;Baggio - Q.re degli Olmi - Q.re Valsesia;2014;SCIA Alternativa;13;22;21;6;5675;625;344;;;;;;Persona fisica;;;;s\x8d;;s\x8d;;;
+7;Baggio - Q.re degli Olmi - Q.re Valsesia;2014;SCIA Alternativa;31;75;90;4;6900;1806;350;;;;;;Impresa / Societ\x85;55;51;si;s\x8d;;s\x8d;;;
+2;Padova - Turro - Crescenzago;2014;SCIA Alternativa;31;76;61;7;5916;1611;1139;;;;;;Altro;41;52;si;s\x8d;s\x8d;;;;
+8;Pagano;2014;SCIA Alternativa;96;342;450;11;39423;7720;2303;;;309;;;Altro;14;38;si;;s\x8d;;s\x8d;;
+2;Padova - Turro - Crescenzago;2014;SCIA Alternativa;17;45;45;5;2781;834;1319;;;;;;Impresa / Societ\x85;28;55;si;;s\x8d;;;;
+4;Monlue' - Ponte Lambro;2014;SCIA Alternativa;28;56;56;5;5259;1116;88;;;;;;Altro;22;62;;;s\x8d;;;;
+7;Quinto Romano;2015;Permesso di costruire;65;147;190;6;19270;2806;3103;;;159;;;Altro;35;48;;;;;;;
+4;Umbria - Molise - Calvairate;2015;Permesso di costruire;4;17;33;3;1687;297;349;0;0;0;0;;Altro;25;91;si;;s\x8d;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+9;Bovisa;2015;Permesso di costruire;12;30;31;6;3000;585;1016;;;;;;Altro;28;48;;s\x8d;;s\x8d;;;
+1;Brera;2015;SCIA Alternativa;17;50;56;6;10287;1343;1729;;;173;;;Altro;25;52;si;s\x8d;s\x8d;;;;
+4;Umbria - Molise - Calvairate;2015;Permesso di costruire;17;43;41;8;5711;1015;1004;0;0;0;0;;Impresa / Societ\x85;32;48;;;s\x8d;s\x8d;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+1;Porta Vigentina - Porta Lodovica;2015;SCIA Alternativa;22;66;44;5;5400;1550;500;;;;;;Impresa / Societ\x85;16;54;;;;;;s\x8d;
+8;De Angeli - Monte Rosa;2015;Permesso di costruire;15;68;64;7;18687;1295;4794;;;;;;Altro;12;54;si;;s\x8d;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+6;Bande Nere;2015;Permesso di costruire;22;74;98;11;5627;1697;1474;;;;;;Persona fisica;17;48;;;s\x8d;;s\x8d;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+5;Porta Ticinese - Conca del Naviglio;2015;SCIA Alternativa;1;5;4;2;524;140;;;;;;;Persona fisica;212;53;;;;;;;
+1;Brera;2015;SCIA Alternativa;22;83;102;11;18958;2102;2677;;;375;;;Altro;18;54;si;s\x8d;s\x8d;;;;
+6;Ronchetto sul Naviglio - Q.re Lodovico il Moro;2015;Permesso di costruire;48;124;144;3;20005;2952;7880;;;;;;Altro;35;50;si;s\x8d;;s\x8d;;;
+5;Vigentino - Q.re Fatima;2015;SCIA Alternativa;73;199;207;9;14952;4174;6774;;;;;UFFICI;Altro;59;45;;;;;s\x8d;;
+5;Porta Vigentina - Porta Lodovica;2015;SCIA Alternativa;22;55;58;5;7060;1205;476;0;0;0;0;parti comuni;Persona fisica;43;48;si;s\x8d;;s\x8d;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+2;Loreto - Casoretto - NoLo;2015;SCIA Alternativa;12;39;33;5;2500;575;400;;;;;;Impresa / Societ\x85;22;60;;;s\x8d;;;;
+6;Porta Ticinese - Conchetta;2016;Permesso di costruire;24;87;86;7;17917;2849;2379;0;0;0;0;;Altro;25;47;si;;s\x8d;;;;
+6;Lorenteggio;2016;SCIA Alternativa;4;8;8;4;2590;287;410;0;0;0;0;;Impresa / Societ\x85;;;;;;;;;
+7;Quarto Cagnino;2016;Permesso di costruire;6;30;24;3;4585;511;363;;;;;;Altro;17;89;si;s\x8d;s\x8d;s\x8d;;;
+8;Sarpi;2016;SCIA Alternativa;9;27;27;8;5100;596;891;;;;;;Altro;35;53;;;s\x8d;;;;
+2;Gorla - Precotto;2016;Permesso di costruire;9;18;18;6;1004;320;314;;;;;;Persona fisica;30;5;;;;s\x8d;;;
+6;Ronchetto sul Naviglio - Q.re Lodovico il Moro;2016;Permesso di costruire;28;91;109;10;12710;1813;1821;;;;;;Impresa / Societ\x85;25;47;;;s\x8d;;s\x8d;;
+1;Brera;2016;SCIA Alternativa;19;84;108;10;17432;2179;2645;;;;;;Altro;125;52;si;;;;;;
+1;Brera;2016;SCIA Alternativa;19;57;70;6;7394;1440;1472;;;248;;;Altro;145;47;si;;;;;;
+6;Porta Ticinese - Conchetta;2016;SCIA Alternativa;19;27;39;3;3185;850;674;;;;;;Impresa / Societ\x85;23;56;;s\x8d;;s\x8d;;;
+9;Porta Garibaldi - Porta Nuova;2016;SCIA Alternativa;24;48;48;11;18309;1024;2106;;;;;;Altro;59;62;si;;s\x8d;s\x8d;;;
+9;Dergano;2016;SCIA Alternativa;30;84;93;13;25000;1871;2223;;;;;;Impresa / Societ\x85;18;16;si;;s\x8d;;s\x8d;;
+7;San Siro;2016;SCIA;43;126;160;14;10968;3252;4652;;;;;;Persona fisica;22;41;si;s\x8d;s\x8d;;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+4;Taliedo - Morsenchio - Q.re Forlanini;2016;Permesso di costruire;89;223;207;8;15099;4382;3961;;;;;;Altro;28;47;si;;;;;;
+1;Brera;2016;SCIA Alternativa;25;86;129;6;6000;2667;2214;0;0;28;0;;Altro;75;54;si;;;;s\x8d;;
+6;Porta Genova;2016;Permesso di costruire;18;66;;8;5196;1645;976;;;;;;Impresa / Societ\x85;33;79;si;s\x8d;s\x8d;;;;
+3;Buenos Aires - Porta Venezia - Porta Monforte;2016;SCIA Alternativa;28;;;;5454;1818;;;;;;;Altro;;;;;;;;;
+8;Maggiore - Musocco - Certosa;2016;Permesso di costruire;50;190;137;16;17235;2681;5267;;;;;;Cooperativa edilizia;74;38;;;;;;s\x8d;
+3;Cimiano - Rottole - Q.re Feltre;2016;Permesso di costruire;11;36;23;8;5728;610;1038;;;;;;Altro;65;56;si;s\x8d;;s\x8d;;;
+1;Guastalla;2016;Permesso di costruire;8;8;16;2;2320;324;401;0;0;0;0;;Altro;;4;;;s\x8d;;;;
+5;Porta Vigentina - Porta Lodovica;2016;SCIA Alternativa;9;25;28;7;1886;574;683;;;;;;Impresa / Societ\x85;25;67;si;s\x8d;s\x8d;s\x8d;;;
+8;Maggiore - Musocco - Certosa;2016;Permesso di costruire;43;155;128;12;15537;2681;5063;;;;;;Cooperativa edilizia;76;45;;;;;;s\x8d;
+8;Villapizzone - Cagnola - Boldinasco;2016;SCIA Alternativa;3;12;12;6;2450;220;312;0;0;0;0;;Persona fisica;37;58;si;;s\x8d;;;;
+2;Padova - Turro - Crescenzago;2016;SCIA Alternativa;16;50;28;3;5403;1233;411;;;;;;Impresa / Societ\x85;39;54;;;;s\x8d;s\x8d;;
+2;Padova - Turro - Crescenzago;2016;Permesso di costruire;19;41;62;5;5498;1219;1804;;;;;;Impresa / Societ\x85;16;41;si;;s\x8d;;;;
+6;Moncucco - San Cristoforo;2016;SCIA Alternativa;5;15;25;3;3000;426;65;;;;;;Impresa / Societ\x85;40;72;si;;s\x8d;;;;
+7;Stadio - Ippodromi;2016;Permesso di costruire;49;186;186;14;33662;4065;5104;0;0;0;0;;Altro;;;si;;s\x8d;;;;
+9;Bovisasca;2016;SCIA Alternativa;130;383;280;15;30489;8744;;;;;;;Altro;59;43;si;;s\x8d;;;;
+8;Pagano;2016;Permesso di costruire;102;336;476;11;39423;7320;5707;;;310;;;Altro;15;39;si;;s\x8d;;s\x8d;;
+1;Magenta - S.Vittore;2016;Permesso di costruire;14;56;24;8;11440;1159;713;;;167;;;Altro;9;39;si;s\x8d;;s\x8d;;;
+7;Figino;2016;SCIA Alternativa;1;5;4;2;428;138;118;;;;;;Persona fisica;16;72;si;s\x8d;;s\x8d;;;
+2;Gorla - Precotto;2016;Permesso di costruire;8;18;17;8;2496;414;251;;388;;;;Altro;65;55;si;s\x8d;;s\x8d;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+1;Magenta - S.Vittore;2016;Permesso di costruire;20;80;40;;9000;2300;900;0;0;0;0;uffici;Impresa / Societ\x85;20;5;;;s\x8d;;;;
+9;Comasina;2016;Permesso di costruire;23;65;66;6;6530;1461;2400;0;0;00;0;;Impresa / Societ\x85;29;5;si;;s\x8d;;;;
+8;Ghisolfa;2016;Permesso di costruire;15;32;48;8;11200;1100;700;000;000;000;000;;Impresa / Societ\x85;28;48;;s\x8d;s\x8d;s\x8d;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+7;Porta Magenta;2016;Permesso di costruire;24;84;84;10;11453;2029;3156;;;;;;Altro;13;48;si;;s\x8d;s\x8d;;;Accordo Stato-Regioni del 1-4-2009 (ampliamento o demolizione/ricostruzione)
+9;Affori;2016;Permesso di costruire;2;4;3;3;490;118;120;;;;;;Impresa / Societ\x85;;24;;;s\x8d;;;;
+5;Tibaldi;2016;Permesso di costruire;8;21;15;6;3286;341;715;;;;;;Impresa / Societ\x85;28;63;;;;s\x8d;;;
+8;Villapizzone - Cagnola - Boldinasco;2016;Permesso di costruire;13;34;37;4;3025;803;191;0;0;0;0;;Persona fisica;29;41;;;;s\x8d;;;
+2;Gorla - Precotto;2016;Permesso di costruire;18;58;47;7;6400;1087;1032;;;;;;Altro;25;54;si;s\x8d;s\x8d;;;;
+6;Porta Genova;2016;Permesso di costruire;25;59;68;6;6633;1432;507;;;;;;Altro;14;40;si;s\x8d;s\x8d;s\x8d;;;
+4;Umbria - Molise - Calvairate;2016;Permesso di costruire;35;108;70;9;7586;2267;1619;;;;;;Impresa / Societ\x85;254;46;si;;s\x8d;;;;
+9;Affori;2016;Permesso di costruire;2;6;8;3;732;106;140;;;;;;Impresa / Societ\x85;;24;;;s\x8d;;;;
+3;Lambrate - Ortica;2016;Permesso di costruire;23;85;72;7;8664;1372;808;0;0;531;0;;Altro;25;4;si;s\x8d;s\x8d;;;;
+8;Ghisolfa;2016;Permesso di costruire;44;111;146;6;14784;2286;2258;;;;;;Impresa / Societ\x85;;5;si;;s\x8d;;;;
+9;Comasina;2016;Permesso di costruire;10;29;27;4;3061;748;269;0;0;0;0;;Impresa / Societ\x85;35;30;si;;;;;;
+6;Porta Genova;2016;Permesso di costruire;40;138;145;10;32968;3444;4701;;;;;;Impresa / Societ\x85;25;43;si;;;;;;
+5;Vigentino - Q.re Fatima;2016;Permesso di costruire;54;179;194;14;18776;3492;3825;;;;;attrezzature sportive;Cooperativa edilizia;19;39;si;;s\x8d;;;;
+6;Moncucco - San Cristoforo;2016;Permesso di costruire;152;417;419;6;28581;8378;11782;;;;;;Persona fisica;22;5;;;s\x8d;;;;
+8;Villapizzone - Cagnola - Boldinasco;2016;Permesso di costruire;24;70;77;6;12091;1472;1418;;;;;;Altro;24;42;si;;s\x8d;;;;
+6;Porta Genova;2016;Permesso di costruire;2;12;8;2;796;195;77;;;;;;Impresa / Societ\x85;25;43;si;;;;;;
+9;Affori;2016;Permesso di costruire;3;9;6;4;935;194;140;;;;;;Impresa / Societ\x85;;24;;;s\x8d;;;;
+9;Niguarda - Ca? Granda - Prato Centenaro - Q.re Fulvio Testi;2016;Permesso di costruire;10;22;26;5;4504;496;658;;;;;;Altro;235;;si;;s\x8d;s\x8d;;;
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;41;103;89;7;9954;2086;1069;;;;;;Altro;25;38;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+3;Lambrate - Ortica;2017;SCIA Alternativa;81;260;250;9;36000;5022;6000;;;343;;;Cooperativa edilizia;39;39;si;;s\x8d;;s\x8d;;
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;20;47;56;4;4343;1076;1107;;;;;;Altro;68;44;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;20;48;47;4;4153;1095;1080;;;;;;Altro;72;42;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;30;92;98;7;9681;1938;1454;;;;;;Altro;22;29;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;26;72;72;6;5828;1521;1315;;;;;;Altro;63;36;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;23;51;60;4;4226;1073;1071;;;;;;Altro;75;42;si;;;;;;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+4;Rogoredo - Santa Giulia;2017;SCIA Alternativa;23;55;54;4;5688;1142;804;;;;;;Altro;25;38;;;;;;s\x8d;Piano nazionale di edilizia abitativa (Dl. 112/2008 e delibera CIPE 8-5-2009)
+2;Padova - Turro - Crescenzago;2017;SCIA Alternativa;14;38;33;6;5128;831;487;;;;;UFFICIO;Impresa / Societ\x85;56;49;si;;s\x8d;;s\x8d;;
+6;Porta Genova;2017;Permesso di costruire;40;138;145;10;32968;3444;4701;;;;;;Impresa / Societ\x85;25;43;si;;;;;;
+2;Padova - Turro - Crescenzago;2017;SCIA Alternativa;3;15;16;2;1898;373;201;;;;;;Impresa / Societ\x85;57;51;si;;s\x8d;;s\x8d;;

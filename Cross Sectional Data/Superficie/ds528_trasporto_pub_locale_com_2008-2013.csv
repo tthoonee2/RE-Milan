@@ -1,0 +1,25 @@
+Anno;Tipo linea;Tipo rete;Numero di fermate;Lunghezza rete in KM;Parco veicoli
+2013;linea Metropolitana;Rete metropolitana;82;64,3;957
+2013;Linee di superficie;Rete Automobilistica;2479;608,8;1353
+2013;Linee di superficie;Rete Tranviaria;703;117,8;407
+2013;Linee di superficie;Rete Filoviaria;203;46,7;139
+2012;linea Metropolitana;Rete metropolitana;75;53,7;921
+2012;Linee di superficie;Rete Automobilistica;2491;456,5;1395
+2012;Linee di superficie;Rete Tranviaria;703;160,8;493
+2012;Linee di superficie;Rete Filoviaria;237;38,5;164
+2011;linea Metropolitana;Rete metropolitana;75;53,7;939
+2011;Linee di superficie;Rete Automobilistica;2874;451,6;1334
+2011;Linee di superficie;Rete Tranviaria;1056;160,8;493
+2011;Linee di superficie;Rete Filoviaria;237;38,5;149
+2010;linea Metropolitana;Rete metropolitana;71;50,2;855
+2010;Linee di superficie;Rete Automobilistica;2862;446,9;1368
+2010;Linee di superficie;Rete Tranviaria;1025;160,8;493
+2010;Linee di superficie;Rete Filoviaria;238;38,5;149
+2009;linea Metropolitana;Rete metropolitana;71;50,2;789
+2009;Linee di superficie;Rete Automobilistica;2831;434,3;1293
+2009;Linee di superficie;Rete Tranviaria;1253;179;487
+2009;Linee di superficie;Rete Filoviaria;249;41,4;148
+2008;linea Metropolitana;Rete metropolitana;71;50,2;729
+2008;Linee di superficie;Rete Automobilistica;2783;421,3;1291
+2008;Linee di superficie;Rete Tranviaria;1173;186,3;465
+2008;Linee di superficie;Rete Filoviaria;249;41,4;155
